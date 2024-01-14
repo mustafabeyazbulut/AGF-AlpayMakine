@@ -106,6 +106,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3ViQ2F0ZWdvcnlcVXBkYXRlU3ViQ2F0ZWdvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/mbeyazbulut/Documents/GitHub/AGF-AlpayMakine/AlpayMakina/AlpayMakina/Areas/Admin/Views/UserSettings/CreateUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclNldHRpbmdzXENyZWF0ZVVzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mbeyazbulut/Documents/GitHub/AGF-AlpayMakine/AlpayMakina/AlpayMakina/Areas/Admin/Views/UserSettings/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclNldHRpbmdzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mbeyazbulut/Documents/GitHub/AGF-AlpayMakine/AlpayMakina/AlpayMakina/Areas/Admin/Views/UserSettings/UpdateUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclNldHRpbmdzXFVwZGF0ZVVzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/mbeyazbulut/Documents/GitHub/AGF-AlpayMakine/AlpayMakina/AlpayMakina/Areas/Admin/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -160,6 +172,18 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/mbeyazbulut/Documents/GitHub/AGF-AlpayMakine/AlpayMakina/AlpayMakina/Views/AdminLayout/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5MYXlvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mbeyazbulut/Documents/GitHub/AGF-AlpayMakine/AlpayMakina/AlpayMakina/Views/Error/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mbeyazbulut/Documents/GitHub/AGF-AlpayMakine/AlpayMakina/AlpayMakina/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mbeyazbulut/Documents/GitHub/AGF-AlpayMakine/AlpayMakina/AlpayMakina/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/mbeyazbulut/Documents/GitHub/AGF-AlpayMakine/AlpayMakina/AlpayMakina/Views/Shared/Components/_Footer_UILayout_ComponentPartial/Default.cshtml]

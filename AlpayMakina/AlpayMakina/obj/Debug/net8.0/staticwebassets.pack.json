@@ -2833,12 +2833,20 @@
       "PackagePath": "staticwebassets\\Eshopper\\shop.html"
     },
     {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Logo\\logo.png",
+      "PackagePath": "staticwebassets\\Logo\\logo.png"
+    },
+    {
       "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\2dcc6a50050c45738c9a1845ac253b88.png",
       "PackagePath": "staticwebassets\\Product\\2dcc6a50050c45738c9a1845ac253b88.png"
     },
     {
       "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\646f4c60cff64d3483521e1167ae5117.png",
       "PackagePath": "staticwebassets\\Product\\646f4c60cff64d3483521e1167ae5117.png"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\848db825ae6e4cc9b00379bfb1dace33.png",
+      "PackagePath": "staticwebassets\\Product\\848db825ae6e4cc9b00379bfb1dace33.png"
     },
     {
       "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\ProjcbPlusAmerican.jpeg",
@@ -3107,6 +3115,42 @@
     {
       "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\logo.png",
       "PackagePath": "staticwebassets\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\panda-login.zip",
+      "PackagePath": "staticwebassets\\panda-login.zip"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\panda-login\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\panda-login\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\panda-login\\README.md",
+      "PackagePath": "staticwebassets\\panda-login\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\panda-login\\dist\\index.html",
+      "PackagePath": "staticwebassets\\panda-login\\dist\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\panda-login\\dist\\script.js",
+      "PackagePath": "staticwebassets\\panda-login\\dist\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\panda-login\\dist\\style.css",
+      "PackagePath": "staticwebassets\\panda-login\\dist\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\panda-login\\src\\index.html",
+      "PackagePath": "staticwebassets\\panda-login\\src\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\panda-login\\src\\script.js",
+      "PackagePath": "staticwebassets\\panda-login\\src\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\panda-login\\src\\style.scss",
+      "PackagePath": "staticwebassets\\panda-login\\src\\style.scss"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AlpayMakina.Microsoft.AspNetCore.StaticWebAssets.props",

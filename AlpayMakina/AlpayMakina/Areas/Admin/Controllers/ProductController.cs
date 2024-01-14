@@ -3,6 +3,7 @@ using AlpayMakina.Repositories.CategoryRepositories;
 using AlpayMakina.Repositories.ProductRepositories;
 using AlpayMakina.Repositories.SubCategoryRepositories;
 using AlpayMakina.Utils;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
@@ -11,6 +12,7 @@ namespace AlpayMakina.Areas.Admin.Controllers
 {
     [Area("Admin")]
     [Route("Admin/Product")]
+    [Authorize]
     public class ProductController : Controller
     {
         private readonly IProductRepository _ProductRepository;

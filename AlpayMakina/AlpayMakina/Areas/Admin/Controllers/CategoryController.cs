@@ -1,11 +1,13 @@
 ﻿using AlpayMakina.Dtos.CategoryDtos;
 using AlpayMakina.Repositories.CategoryRepositories;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AlpayMakina.Areas.Admin.Controllers
 {
     [Area("Admin")]
     [Route("Admin/Category")]
+    [Authorize]
     public class CategoryController : Controller
     {
         private readonly ICategoryRepository _CategoryRepository;

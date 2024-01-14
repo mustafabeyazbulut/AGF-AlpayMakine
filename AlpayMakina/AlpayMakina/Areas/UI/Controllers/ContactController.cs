@@ -2,9 +2,13 @@
 
 namespace AlpayMakina.Areas.UI.Controllers
 {
-	public class ContactController : Controller
+    [Area("UI")]
+    [Route("UI/Contact")]
+    public class ContactController : Controller
 	{
-		public IActionResult Index()
+        [Route("")]
+        [Route("Index")]
+        public IActionResult Index()
 		{
 			return View();
 		}

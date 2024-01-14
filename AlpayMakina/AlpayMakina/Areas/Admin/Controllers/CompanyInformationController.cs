@@ -1,12 +1,14 @@
 ﻿using AlpayMakina.Dtos.CompanyInformationDtos;
 using AlpayMakina.Dtos.SocialMediaDtos;
 using AlpayMakina.Repositories.CompanyInformationRepositories;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AlpayMakina.Areas.Admin.Controllers
 {
     [Area("Admin")]
     [Route("Admin/CompanyInformation")]
+    [Authorize]
     public class CompanyInformationController : Controller
     {
         private readonly ICompanyInformationRepository _companyInformationRepository;

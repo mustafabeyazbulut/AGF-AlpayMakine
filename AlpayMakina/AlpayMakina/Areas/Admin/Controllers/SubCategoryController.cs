@@ -1,6 +1,7 @@
 ﻿using AlpayMakina.Dtos.SubCategoryDtos;
 using AlpayMakina.Repositories.CategoryRepositories;
 using AlpayMakina.Repositories.SubCategoryRepositories;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
@@ -8,6 +9,7 @@ namespace AlpayMakina.Areas.Admin.Controllers
 {
     [Area("Admin")]
     [Route("Admin/SubCategory")]
+    [Authorize]
     public class SubCategoryController : Controller
     {
         private readonly ISubCategoryRepository _SubCategoryRepository;

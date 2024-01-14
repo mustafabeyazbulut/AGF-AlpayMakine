@@ -1,11 +1,13 @@
 ﻿using AlpayMakina.Dtos.SliderDtos;
 using AlpayMakina.Repositories.SliderRepositories;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AlpayMakina.Areas.Admin.Controllers
 {
     [Area("Admin")]
     [Route("Admin/Slider")]
+    [Authorize]
     public class SliderController : Controller
     {
         private readonly ISliderRepository _SliderRepository;

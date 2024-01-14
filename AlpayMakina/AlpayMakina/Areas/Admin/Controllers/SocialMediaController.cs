@@ -1,5 +1,6 @@
 ﻿using AlpayMakina.Dtos.SocialMediaDtos;
 using AlpayMakina.Repositories.SocialMediaRepositories;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using System.Net.Http;
@@ -9,6 +10,7 @@ namespace AlpayMakina.Areas.Admin.Controllers
 {
     [Area("Admin")]
     [Route("Admin/SocialMedia")]
+    [Authorize]
     public class SocialMediaController : Controller
     {
         private readonly ISocialMediaRepository _socialMediaRepository;

@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlpayMakina")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1bbf5bb33319f1ba2b489a2786ec88c0f5cece7")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlpayMakina")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlpayMakina")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
