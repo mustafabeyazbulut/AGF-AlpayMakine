@@ -23,8 +23,8 @@
                         <th>Price</th>
                         <th>Currency</th>
                         <th>ImageUrl</th>
-                        <th>CategoryId</th>
-                        <th>SubCategoryId</th>
+                        <th>Kategorisi</th>
+                        <th>Alt Kategorisi</th>
                         <th>Sil</th>
                         <th>Güncelle</th>
                     </tr>
@@ -39,8 +39,8 @@
                             <td>@item.Price</td>
                             <td>@item.Currency</td>
                             <td>@item.ImageUrl</td>
-                            <td>@item.CategoryId</td>
-                            <td>@item.SubCategoryId</td>
+                            <td>@item.Category</td>
+                            <td>@item.SubCategory</td>
                             <td><a href="/Admin/Product/RemoveProduct/@item.Id" class="btn btn-outline-danger btnConfirm">Sil</a></td>
                             <td><a href="/Admin/Product/UpdateProduct/@item.Id" class="btn btn-outline-success">Güncelle</a></td>
                         </tr>

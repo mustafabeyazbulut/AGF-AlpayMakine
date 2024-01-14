@@ -15,7 +15,23 @@ namespace AlpayMakina.Repositories.ProductRepositories
 
         public async Task<List<ResultProductDto>> GetAllProductAsync()
         {
-            string query = "Select * from Product";
+            string query = @"
+                            Select 
+                                Product.Id,
+                                Product.Title,
+                                Product.Price,                
+                                Product.Currency,                
+                                Product.ImageUrl,                
+                                Category.Category,                
+                                Product.CategoryId,                
+                                SubCategory.SubCategory,                
+                                Product.SubCategoryId                
+                             FROM 
+                                Product
+                             LEFT JOIN
+                                Category On Product.CategoryId=Category.Id
+                             LEFT JOIN
+                                SubCategory On Product.SubCategoryId=SubCategory.Id";
             using (var connection=_context.CreateConnection())
             {
                 var values= await connection.QueryAsync<ResultProductDto>(query);

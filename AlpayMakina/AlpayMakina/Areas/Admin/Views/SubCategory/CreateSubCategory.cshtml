@@ -19,7 +19,7 @@
             </div>
             <div class="form-group">
                 <label for="CategoryId">Kategori</label>
-                <input type="text" class="form-control" id="CategoryId" asp-for="CategoryId" placeholder="Kategori Seçiniz">
+                @Html.DropDownListFor(x=>x.CategoryId,(List<SelectListItem>)ViewBag.Category,new {@class="form-control"})
             </div>
 
             <button type="submit" class="btn btn-primary waves-effect waves-light btnConfirm">Alt Kategoriyi Kaydet</button>

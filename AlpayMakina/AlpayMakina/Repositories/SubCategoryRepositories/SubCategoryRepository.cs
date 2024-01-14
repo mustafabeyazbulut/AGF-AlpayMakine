@@ -15,10 +15,20 @@ namespace AlpayMakina.Repositories.SubCategoryRepositories
 
         public async Task<List<ResultSubCategoryDto>> GetAllSubCategoryAsync()
         {
-            string query = "Select * from SubCategory";
-            using(var connection= _context.CreateConnection())
+            string query = @"
+                            SELECT 
+                                SubCategory.Id,
+                                SubCategory.SubCategory,
+                                SubCategory.CategoryId,
+                                Category.Category
+                            FROM 
+                                SubCategory
+                            INNER JOIN 
+                                Category ON SubCategory.CategoryId = Category.Id";
+            //string query = "Select * from SubCategory";
+            using (var connection = _context.CreateConnection())
             {
-                var value= await connection.QueryAsync<ResultSubCategoryDto>(query);
+                var value = await connection.QueryAsync<ResultSubCategoryDto>(query);
                 return value.ToList();
             }
         }

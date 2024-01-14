@@ -12,7 +12,7 @@
             Bir ürünün alt Kategorisi var ise Kategori belirtmenize gerek yoktur. Alt Kategorisi olmayan ürünler için Kategori belirtmeniz zorunludur.
         </p>
 
-        <form method="post">
+        <form method="post" enctype="multipart/form-data">
             <input type="hidden" asp-for="Id" />
             <div class="form-group">
                 <label for="Title">Başlık</label>
@@ -27,16 +27,20 @@
                 <input type="text" class="form-control" id="Currency" asp-for="Currency" placeholder="Para Birimini giriniz">
             </div>
             <div class="form-group">
+                <label for="ImageFile">Ürün Fotoğrafı</label>
+                <input type="file" class="form-control" id="ImageFile" asp-for="ImageFile" accept=".jpg, .jpeg, .png" onchange="previewImage(this)">
+            </div>
+            <div class="form-group">
                 <label for="ImageUrl">Ürün Fotoğrafı</label>
-                <input type="text" class="form-control" id="ImageUrl" asp-for="ImageUrl" placeholder="Ürün Fotoğrafını Seçiniz">
+                <img id="ImageUrlPreview" src="~/Product/@Model.ImageUrl" class="form-control" style="width:200px;height:200px">
             </div>
             <div class="form-group">
-                <label for="CategoryId">Kategori</label>
-                <input type="text" class="form-control" id="CategoryId" asp-for="CategoryId" placeholder="Kategori seçiniz">
+                <label for="CategoryId">Kategorisi</label>
+                @Html.DropDownListFor(x=>x.CategoryId,(List<SelectListItem>)ViewBag.Category,new {@class="form-control"})
             </div>
             <div class="form-group">
-                <label for="SubCategoryId">Alt Kategori</label>
-                <input type="text" class="form-control" id="SubCategoryId" asp-for="SubCategoryId" placeholder="Alt Kategori seçiniz">
+                <label for="SubCategoryId">Alt Kategorisi</label>
+                @Html.DropDownListFor(x=>x.SubCategoryId,(List<SelectListItem>)ViewBag.SubCategory,new {@class="form-control"})
             </div>
 
             <button type="submit" class="btn btn-primary waves-effect waves-light btnConfirm">Güncelle</button>
@@ -45,3 +49,15 @@
     </div> <!-- end card-body-->
 </div>
 
+<script>
+    function previewImage(input) {
+        console.log("a");
+        if (input.files && input.files[0]) {
+            var reader = new FileReader();
+            reader.onload = function (e) {
+                $('#ImageUrlPreview').attr('src', e.target.result);
+            };
+            reader.readAsDataURL(input.files[0]);
+        }
+    }
+</script>

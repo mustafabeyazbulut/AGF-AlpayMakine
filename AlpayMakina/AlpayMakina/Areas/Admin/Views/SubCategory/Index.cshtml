@@ -19,8 +19,8 @@
                 <thead>
                     <tr>
                         <th>#</th>
-                        <th>SubCategory</th>
-                        <th>CategoryId</th>
+                        <th>Alt Kategori</th>
+                        <th>Kategorisi</th>
                         <th>Sil</th>
                         <th>Güncelle</th>
                     </tr>
@@ -32,7 +32,7 @@
                         <tr>
                             <td>@count</td>
                             <td>@item.SubCategory</td>
-                            <td>@item.CategoryId</td>
+                            <td>@item.Category</td>
                             <td><a href="/Admin/SubCategory/RemoveSubCategory/@item.Id" class="btn btn-outline-danger btnConfirm">Sil</a></td>
                             <td><a href="/Admin/SubCategory/UpdateSubCategory/@item.Id" class="btn btn-outline-success">Güncelle</a></td>
                         </tr>

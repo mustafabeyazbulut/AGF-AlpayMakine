@@ -5,6 +5,7 @@ using AlpayMakina.Repositories.ProductRepositories;
 using AlpayMakina.Repositories.SliderRepositories;
 using AlpayMakina.Repositories.SocialMediaRepositories;
 using AlpayMakina.Repositories.SubCategoryRepositories;
+using AlpayMakina.Utils;
 
 var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
@@ -19,7 +20,7 @@ builder.Services.AddTransient<ICategoryRepository, CategoryRepository>();
 builder.Services.AddTransient<ISubCategoryRepository, SubCategoryRepository>();
 builder.Services.AddTransient<IProductRepository, ProductRepository>();
 
-
+builder.Services.AddScoped<ImageOperations>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
