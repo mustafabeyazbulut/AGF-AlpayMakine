@@ -1,0 +1,51 @@
+﻿@model List<ResultSocialMediaDto>
+<header id="header">
+    <!--header-->
+    <div class="header_top">
+        <!--header_top-->
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    <div class="contactinfo">
+                        <ul class="nav nav-pills">
+                            <li><a href="#"><i class="fa fa-phone"></i> @ViewBag.CompanyPhone</a></li>
+                            <li><a href="#"><i class="fa fa-envelope"></i> @ViewBag.CompanyMail</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="social-icons pull-right">
+                        <ul class="nav navbar-nav">
+                            @foreach (var item in Model)
+                            {
+                                <li><a href="@item.Href"><i class="@item.IconClass"></i></a></li>
+                            }
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div><!--/header_top-->
+
+    <div class="header-middle">
+        <!--header-middle-->
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-2">
+                    <div class="logo pull-left">
+                        <a href="/UI/HOME/INDEX"><img style="width:150%" src="~/Eshopper/images/deneme.png" alt="" /></a>
+                    </div>
+                </div>
+                <div class="col-sm-10">
+                    <div class="shop-menu pull-right">
+                        <ul class="nav navbar-nav">
+                            <li><a href="/UI/Home/Index"><i class="fa fa-home"></i> Anasayfa</a></li>
+                            <li><a href="/UI/About/Index"><i class="fa fa-info"></i> Hakkımızda</a></li>
+                            <li><a href="/UI/Contact/Index"><i class="fa fa-phone"></i> İletişim</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div><!--/header-middle-->
+</header><!--/header-->

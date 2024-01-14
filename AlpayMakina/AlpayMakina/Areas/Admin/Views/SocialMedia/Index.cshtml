@@ -1,0 +1,49 @@
+﻿@model List<ResultSocialMediaDto>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+    int count = 0;
+}
+
+<div class="card">
+    <div class="card-body">
+        <h4 class="card-title">Social Media Hesapları Yönetim Sayfası</h4>
+        <p class="card-subtitle mb-4">
+            AGF Alpay Makina web sitesinde kullanılan Social Media alanlarını aşağıdan düzenleyebilirsiniz. Icon Görselleri class alanına <a href="https://fontawesome.com/">fontawesome</a> sitesinden ekleme yapabilirsiniz.
+            
+        </p>
+        <a href="/Admin/SocialMedia/CreateSocialMedia/" class="btn btn-outline-primary">Yeni Social Media Hesabı Girişi</a>
+        <br/>
+        <br />
+        <div class="table-responsive">
+            <table class="table mb-0">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>IconClass</th>
+                        <th>Href</th>
+                        <th>Sil</th>
+                        <th>Güncelle</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        count++;
+                        <tr>
+                            <td>@count</td>
+                            <td>@item.IconClass</td>
+                            <td>@item.Href</td>
+                            <td><a href="/Admin/SocialMedia/RemoveSocialMedia/@item.Id" class="btn btn-outline-danger btnConfirm">Sil</a></td>
+                            <td><a href="/Admin/SocialMedia/UpdateSocialMedia/@item.Id" class="btn btn-outline-success">Güncelle</a></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            
+        </div>
+
+    </div>
+    <!-- end card-body-->
+</div>
+

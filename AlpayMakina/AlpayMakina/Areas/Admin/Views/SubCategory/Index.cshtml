@@ -1,0 +1,48 @@
+﻿@model List<ResultSubCategoryDto>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+    int count = 0;
+}
+
+<div class="card">
+    <div class="card-body">
+        <h4 class="card-title">Alt Kategori Yönetim Sayfası</h4>
+        <p class="card-subtitle mb-4">
+            Alt Kategori eklerken üst kategori belirtmek zorunludur.
+        </p>
+        <a href="/Admin/SubCategory/CreateSubCategory/" class="btn btn-outline-primary">Yeni Alt Kategori Girişi</a>
+        <br />
+        <br />
+        <div class="table-responsive">
+            <table class="table mb-0">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>SubCategory</th>
+                        <th>CategoryId</th>
+                        <th>Sil</th>
+                        <th>Güncelle</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        count++;
+                        <tr>
+                            <td>@count</td>
+                            <td>@item.SubCategory</td>
+                            <td>@item.CategoryId</td>
+                            <td><a href="/Admin/SubCategory/RemoveSubCategory/@item.Id" class="btn btn-outline-danger btnConfirm">Sil</a></td>
+                            <td><a href="/Admin/SubCategory/UpdateSubCategory/@item.Id" class="btn btn-outline-success">Güncelle</a></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+        </div>
+
+    </div>
+    <!-- end card-body-->
+</div>
+

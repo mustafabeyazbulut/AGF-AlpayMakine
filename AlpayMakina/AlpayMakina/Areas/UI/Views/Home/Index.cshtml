@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/UILayout/Index.cshtml";
+}
+
+@await Component.InvokeAsync("_Slider_Home_ComponentPartial")
+
+<section>
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-3">
+				@await Component.InvokeAsync("_Category_Home_ComponentPartial")
+			</div>
+
+			<div class="col-sm-9 padding-right">
+				@await Component.InvokeAsync("_Products_Home_ComponentPartial")
+			</div>
+		</div>
+	</div>
+</section>

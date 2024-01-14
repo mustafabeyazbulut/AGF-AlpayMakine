@@ -1,0 +1,46 @@
+﻿@model List<ResultCategoryDto>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+    int count = 0;
+}
+
+<div class="card">
+    <div class="card-body">
+        <h4 class="card-title">Kategori Yönetim Sayfası</h4>
+        <p class="card-subtitle mb-4">
+            Kategori ekleme işlemini buradan gerçekleştirebilirsiniz.
+        </p>
+        <a href="/Admin/Category/CreateCategory/" class="btn btn-outline-primary">Yeni Kategori Girişi</a>
+        <br />
+        <br />
+        <div class="table-responsive">
+            <table class="table mb-0">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Kategori</th>
+                        <th>Sil</th>
+                        <th>Güncelle</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        count++;
+                        <tr>
+                            <td>@count</td>
+                            <td>@item.Category</td>
+                            <td><a href="/Admin/Category/RemoveCategory/@item.Id" class="btn btn-outline-danger btnConfirm">Sil</a></td>
+                            <td><a href="/Admin/Category/UpdateCategory/@item.Id" class="btn btn-outline-success">Güncelle</a></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+        </div>
+
+    </div>
+    <!-- end card-body-->
+</div>
+

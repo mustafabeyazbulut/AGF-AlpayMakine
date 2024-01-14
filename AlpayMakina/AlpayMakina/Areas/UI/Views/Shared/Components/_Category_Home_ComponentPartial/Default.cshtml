@@ -1,0 +1,45 @@
+﻿@model List<ResultCategoryWithSubCategory>
+<div class="left-sidebar">
+    <h2>Kategoriler</h2>
+    <div class="panel-group category-products" id="accordian">
+        <!--category-productsr-->
+        @foreach (var item in Model)
+        {
+            if (item.SubCategoryList.Count > 0)
+            {
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#accordian" href="#@item.Id">
+                                <span class="badge pull-right"><i class="fa fa-plus"></i></span>
+                                @item.Category
+                            </a>
+                        </h4>
+                    </div>
+
+                    <div id="@item.Id" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            <ul>
+                                @foreach (var item2 in item.SubCategoryList)
+                                {
+                                    <li><a href="#">@item2.subCategory </a></li>
+                                }
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            }
+            else
+            {
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title"><a href="#">@item.Category</a></h4>
+                    </div>
+                </div>
+            }
+
+        }
+
+
+    </div><!--/category-products-->
+</div>

@@ -1,0 +1,47 @@
+﻿@model UpdateProductDto
+@{
+    ViewData["Title"] = "UpdateProduct";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<div class="card">
+    <div class="card-body">
+
+        <h4 class="card-title">Ürün Düzenleme Ekranı</h4>
+        <p class="card-subtitle mb-4">
+            Bir ürünün alt Kategorisi var ise Kategori belirtmenize gerek yoktur. Alt Kategorisi olmayan ürünler için Kategori belirtmeniz zorunludur.
+        </p>
+
+        <form method="post">
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label for="Title">Başlık</label>
+                <input type="text" class="form-control" id="Title" asp-for="Title" placeholder="Ürün Başlığını giriniz">
+            </div>
+            <div class="form-group">
+                <label for="Price">Fiyat</label>
+                <input type="text" class="form-control" id="Price" asp-for="Price" placeholder="Ürün fiyatını giriniz">
+            </div>
+            <div class="form-group">
+                <label for="Currency">Para Birimi</label>
+                <input type="text" class="form-control" id="Currency" asp-for="Currency" placeholder="Para Birimini giriniz">
+            </div>
+            <div class="form-group">
+                <label for="ImageUrl">Ürün Fotoğrafı</label>
+                <input type="text" class="form-control" id="ImageUrl" asp-for="ImageUrl" placeholder="Ürün Fotoğrafını Seçiniz">
+            </div>
+            <div class="form-group">
+                <label for="CategoryId">Kategori</label>
+                <input type="text" class="form-control" id="CategoryId" asp-for="CategoryId" placeholder="Kategori seçiniz">
+            </div>
+            <div class="form-group">
+                <label for="SubCategoryId">Alt Kategori</label>
+                <input type="text" class="form-control" id="SubCategoryId" asp-for="SubCategoryId" placeholder="Alt Kategori seçiniz">
+            </div>
+
+            <button type="submit" class="btn btn-primary waves-effect waves-light btnConfirm">Güncelle</button>
+        </form>
+
+    </div> <!-- end card-body-->
+</div>
+

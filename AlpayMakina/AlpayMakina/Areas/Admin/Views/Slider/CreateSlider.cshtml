@@ -1,0 +1,42 @@
+﻿@model CreateSliderDto
+@{
+    ViewData["Title"] = "CreateSlider";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+<div class="card">
+    <div class="card-body">
+
+        <h4 class="card-title">Yeni Slayt Girişi</h4>
+        <p class="card-subtitle mb-4">
+            Yeni slayt ekleme işlemini alt taraftan yapabilirsiniz. Active alanı için sadece bir tane üründe active olarak kayıt olmalıdır. Diğer kayıtlar boş olmalıdır. Maksimum 4 kayıt önerilmektedir.
+        </p>
+
+        <form method="post">
+            <div class="form-group">
+                <label for="Title">Başlık</label>
+                <input type="text" class="form-control" id="Title" asp-for="Title" placeholder="Başlık giriniz">
+            </div>
+            <div class="form-group">
+                <label for="Description">Açıklama</label>
+                <input type="text" class="form-control" id="Description" asp-for="Description" placeholder="Açıklama giriniz">
+            </div>
+            <div class="form-group">
+                <label for="ImageUrl">Fotoğfraf</label>
+                <input type="text" class="form-control" id="ImageUrl" asp-for="ImageUrl" placeholder="Fotoğraf Seçiniz">
+            </div>
+            <div class="form-group">
+                <label for="PriceUrl">Fiyat Fotoğrafı</label>
+                <input type="text" class="form-control" id="PriceUrl" asp-for="PriceUrl" placeholder="Fiyat fotoğrafı giriniz">
+            </div>
+            <div class="form-group">
+                <label for="Href">Active</label>
+                <input type="text" class="form-control" id="Href" asp-for="Active" placeholder="sadece bir kayıt için active olacak diğer kayıtlar için boş geçilecek">
+            </div>
+
+            <button type="submit" class="btn btn-primary waves-effect waves-light btnConfirm">Slayta Ekle</button>
+        </form>
+
+    </div> <!-- end card-body-->
+</div>
+
+
