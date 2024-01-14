@@ -1,4 +1,5 @@
-﻿using AlpayMakina.Dtos.ProductDtos;
+﻿using AlpayMakina.Dtos.ProductDetailDtos;
+using AlpayMakina.Dtos.ProductDtos;
 using AlpayMakina.Models.DapperContect;
 using Dapper;
 
@@ -118,5 +119,35 @@ namespace AlpayMakina.Repositories.ProductRepositories
                 await connection.ExecuteAsync(query, parameters);
             }
         }
-    }
+
+		public async Task<ResultProductDetailDto> GetProductDetailAsync(int id)
+		{
+			string query = @"
+                            Select 
+                                Product.Id,
+                                Product.Title,
+                                Product.Price,                
+                                Product.Currency,                
+                                Product.ImageUrl,                
+                                Category.Category,                
+                                Product.CategoryId,                
+                                SubCategory.SubCategory,                
+                                Product.SubCategoryId                
+                             FROM 
+                                Product
+                             LEFT JOIN
+                                Category On Product.CategoryId=Category.Id
+                             LEFT JOIN
+                                SubCategory On Product.SubCategoryId=SubCategory.Id
+                             WHERE 
+                             Product.Id=@Id";
+			var parameters = new DynamicParameters();
+			parameters.Add("@Id", id);
+			using (var connection = _context.CreateConnection())
+			{
+				var values = await connection.QueryFirstOrDefaultAsync<ResultProductDetailDto>(query, parameters);
+				return values;
+			}
+		}
+	}
 }

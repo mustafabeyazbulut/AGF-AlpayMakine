@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gRXYg9mPWFEBZGz4tI2VLey/4eYWbXTvzQezIjWK8nw=",
+  "Hash": "2fntHTYBoTHD1u1bTGqgVtyPkTEMCdDMmFZ2xPfNKbQ=",
   "Source": "AlpayMakina",
   "BasePath": "_content/AlpayMakina",
   "Mode": "Default",
@@ -14911,6 +14911,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Product\\646f4c60cff64d3483521e1167ae5117.png"
+    },
+    {
+      "Identity": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\713962e4f13a413f8ccd14c0e0673ff9.png",
+      "SourceId": "AlpayMakina",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\",
+      "BasePath": "_content/AlpayMakina",
+      "RelativePath": "Product/713962e4f13a413f8ccd14c0e0673ff9.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Product\\713962e4f13a413f8ccd14c0e0673ff9.png"
     },
     {
       "Identity": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\848db825ae6e4cc9b00379bfb1dace33.png",

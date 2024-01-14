@@ -14,7 +14,8 @@
 			</div>
 
 			<div class="col-sm-9 padding-right">
-				@await Component.InvokeAsync("_Products_Home_ComponentPartial")
+				@await Component.InvokeAsync("_Products_Home_ComponentPartial",new {Id=ViewBag.CategoryId})
+
 			</div>
 		</div>
 	</div>

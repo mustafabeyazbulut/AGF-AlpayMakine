@@ -22,7 +22,7 @@
                             <ul>
                                 @foreach (var item2 in item.SubCategoryList)
                                 {
-                                    <li><a href="#">@item2.subCategory </a></li>
+                                    <li><a href="/UI/Home/Index/@item.Id">@item2.subCategory </a></li>
                                 }
                             </ul>
                         </div>
@@ -33,13 +33,11 @@
             {
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4 class="panel-title"><a href="#">@item.Category</a></h4>
+                        <h4 class="panel-title"><a href="/UI/Home/Index/@item.Id">@item.Category</a></h4>
                     </div>
                 </div>
             }
 
         }
-
-
     </div><!--/category-products-->
 </div>

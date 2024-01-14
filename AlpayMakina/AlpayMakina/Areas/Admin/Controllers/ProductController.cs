@@ -88,6 +88,10 @@ namespace AlpayMakina.Areas.Admin.Controllers
         [Route("RemoveProduct/{id}")]
         public async Task<IActionResult> RemoveProduct(int id)
         {
+            var lastProduct = await _ProductRepository.GetProductAsync(id);
+
+            await _imageOperations.DeleteIconAsync(lastProduct.ImageUrl);
+
             await _ProductRepository.RemoveProductAsync(id);
 
             return RedirectToAction("Index", "Product", new { area = "Admin" });

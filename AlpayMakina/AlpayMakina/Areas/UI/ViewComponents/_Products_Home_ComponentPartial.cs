@@ -12,9 +12,9 @@ namespace AlpayMakina.Areas.UI.ViewComponents
             _productRepository = productRepository;
         }
 
-        public async Task< IViewComponentResult> InvokeAsync()
+        public async Task< IViewComponentResult> InvokeAsync(int Id)
 		{
-			var values = await _productRepository.GetFilterProductAsync();
+			var values = await _productRepository.GetFilterProductAsync(Id);
 			return View(values);
 		}
 	}

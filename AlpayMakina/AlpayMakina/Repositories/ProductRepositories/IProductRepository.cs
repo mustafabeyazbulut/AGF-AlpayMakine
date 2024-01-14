@@ -1,4 +1,5 @@
-﻿using AlpayMakina.Dtos.ProductDtos;
+﻿using AlpayMakina.Dtos.ProductDetailDtos;
+using AlpayMakina.Dtos.ProductDtos;
 
 namespace AlpayMakina.Repositories.ProductRepositories
 {
@@ -9,6 +10,7 @@ namespace AlpayMakina.Repositories.ProductRepositories
         Task AddProductAsync(CreateProductDto createProductDto);
         Task RemoveProductAsync(int id);
         Task<UpdateProductDto> GetProductAsync(int id);
+        Task<ResultProductDetailDto> GetProductDetailAsync(int id);
         Task UpdateProductAsync(UpdateProductDto updateProductDto);
     }
 }
