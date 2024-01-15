@@ -1,6 +1,8 @@
 ﻿using AlpayMakina.Models.DapperContect;
+using AlpayMakina.Repositories.AboutRepositories;
 using AlpayMakina.Repositories.CategoryRepositories;
 using AlpayMakina.Repositories.CompanyInformationRepositories;
+using AlpayMakina.Repositories.ContactRepositories;
 using AlpayMakina.Repositories.ProductRepositories;
 using AlpayMakina.Repositories.SliderRepositories;
 using AlpayMakina.Repositories.SocialMediaRepositories;
@@ -29,6 +31,8 @@ builder.Services.AddTransient<ICategoryRepository, CategoryRepository>();
 builder.Services.AddTransient<ISubCategoryRepository, SubCategoryRepository>();
 builder.Services.AddTransient<IProductRepository, ProductRepository>();
 builder.Services.AddTransient<IUserRepository, UserRepository>();
+builder.Services.AddTransient<IAboutRepository, AboutRepository>();
+builder.Services.AddTransient<IContactRepository, ContactRepository>();
 
 builder.Services.AddScoped<ImageOperations>();
 builder.Services.AddScoped<HashHelper>();
@@ -68,8 +72,8 @@ app.UseAuthorization();
 
 //    );
 //});
-app.UseStatusCodePagesWithReExecute("/Error/Index/{0}");
-app.UseExceptionHandler("/Error/Index");
+//app.UseStatusCodePagesWithReExecute("/Error/Index/{0}");
+//app.UseExceptionHandler("/Error/Index");
 app.UseEndpoints(endpoints =>
 {
     // Belirli bir alan varsa bu route'u kullan
@@ -85,11 +89,11 @@ app.UseEndpoints(endpoints =>
     );
 
     // Sayfa bulunamadığında Error/Index action'ına git
-    endpoints.MapControllerRoute(
-        name: "error",
-        pattern: "Error/{action=Index}/{id?}",
-        defaults: new { controller = "Error" }
-    );
+    //endpoints.MapControllerRoute(
+    //    name: "error",
+    //    pattern: "Error/{action=Index}/{id?}",
+    //    defaults: new { controller = "Error" }
+    //);
 });
 
 app.Run();

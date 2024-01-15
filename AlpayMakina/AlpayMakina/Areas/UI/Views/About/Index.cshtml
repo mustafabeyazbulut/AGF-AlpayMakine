@@ -1,8 +1,48 @@
-﻿
+﻿@model List<ResultAboutDto>
 @{
     ViewData["Title"] = "Index";
     Layout = "~/Views/UILayout/Index.cshtml";
 }
 
-<h1>Index</h1>
+<div class="container">
+    <div class="row">
+
+        <div class="col-sm-12">
+            <div class="blog-post-area">
+                <h2 class="title text-center">Hakkımızda</h2>
+                @foreach (var item in Model)
+                {
+                    <div class="single-blog-post">
+
+                        <h3 class="text-center">@item.Title</h3>
+                        <div class="post-meta">
+                            <ul>
+                                <li><i class="fa fa-clock-o"></i> @item.HTime</li>
+                                <li><i class="fa fa-calendar"></i> @item.HDate.ToString("dd/MM/yyyy")</li>
+                            </ul>
+
+                        </div>
+                        <div style="text-align:center">
+                            <a href="">
+                                <img style="max-width:500px;" src="/AboutPhoto/@item.ImageUrl" alt="">
+                            </a>
+                        </div>
+                       
+                        <p>@item.Description</p>
+                    </div>
+                }
+
+
+                @* <div class="pagination-area">
+                <ul class="pagination">
+                <li><a href="" class="active">1</a></li>
+                <li><a href="">2</a></li>
+                <li><a href="">3</a></li>
+                <li><a href=""><i class="fa fa-angle-double-right"></i></a></li>
+                </ul>
+                </div> *@
+            </div>
+        </div>
+    </div>
+</div>
 

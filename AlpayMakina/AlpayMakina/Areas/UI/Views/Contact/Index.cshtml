@@ -1,4 +1,4 @@
-﻿
+﻿@model List<ResultContactDto>
 @{
     ViewData["Title"] = "Index";
     Layout = "~/Views/UILayout/Index.cshtml";
@@ -34,15 +34,16 @@
 			<div class="col-sm-4">
 				<div class="contact-info">
 					<h2 class="title text-center">İLETİŞİM BİLGİLERİ</h2>
-					<address>
-						<p>E-Shopper Inc.</p>
-						<p>935 W. Webster Ave New Streets Chicago, IL 60614, NY</p>
-						<p>Newyork USA</p>
-						<p>Mobile: +2346 17 38 93</p>
-						<p>Fax: 1-714-252-0026</p>
-						<p>Email: info@e-shopper.com</p>
-					</address>
-					
+					@foreach (var item in Model)
+					{
+						<address>
+							<p>@item.CompanyName</p>
+							<p>@item.CompanyAddress</p>
+							<p>Mobile: @item.Mobile</p>
+							<p>Fax: @item.Fax</p>
+							<p>Email: @item.Email</p>
+						</address>
+					}
 				</div>
 			</div>
 		</div>

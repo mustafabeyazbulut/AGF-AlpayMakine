@@ -26,6 +26,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\Users\mbeyazbulut\Documents\GitHub\AGF-AlpayMakine\AlpayMakina\AlpayMakina
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/mbeyazbulut/Documents/GitHub/AGF-AlpayMakine/AlpayMakina/AlpayMakina/Areas/Admin/Views/About/CreateAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWJvdXRcQ3JlYXRlQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mbeyazbulut/Documents/GitHub/AGF-AlpayMakine/AlpayMakina/AlpayMakina/Areas/Admin/Views/About/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWJvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mbeyazbulut/Documents/GitHub/AGF-AlpayMakine/AlpayMakina/AlpayMakina/Areas/Admin/Views/About/UpdateAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWJvdXRcVXBkYXRlQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/mbeyazbulut/Documents/GitHub/AGF-AlpayMakine/AlpayMakina/AlpayMakina/Areas/Admin/Views/Category/CreateCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcQ3JlYXRlQ2F0ZWdvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -48,6 +60,18 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/mbeyazbulut/Documents/GitHub/AGF-AlpayMakine/AlpayMakina/AlpayMakina/Areas/Admin/Views/CompanyInformation/UpdateCompanyInformation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29tcGFueUluZm9ybWF0aW9uXFVwZGF0ZUNvbXBhbnlJbmZvcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mbeyazbulut/Documents/GitHub/AGF-AlpayMakine/AlpayMakina/AlpayMakina/Areas/Admin/Views/Contact/CreateContact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29udGFjdFxDcmVhdGVDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mbeyazbulut/Documents/GitHub/AGF-AlpayMakine/AlpayMakina/AlpayMakina/Areas/Admin/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mbeyazbulut/Documents/GitHub/AGF-AlpayMakine/AlpayMakina/AlpayMakina/Areas/Admin/Views/Contact/UpdateContact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29udGFjdFxVcGRhdGVDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/mbeyazbulut/Documents/GitHub/AGF-AlpayMakine/AlpayMakina/AlpayMakina/Areas/Admin/Views/Home/Index.cshtml]

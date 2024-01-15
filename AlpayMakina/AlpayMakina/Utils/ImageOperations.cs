@@ -3,7 +3,7 @@
     public class ImageOperations
     {
         private readonly IWebHostEnvironment _hostingEnvironment;
-        private string FilePath = "Product";
+        public string FilePath = "Product";
 
         public ImageOperations(IWebHostEnvironment hostingEnvironment)
         {

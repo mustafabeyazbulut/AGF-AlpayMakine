@@ -76,6 +76,7 @@ namespace AlpayMakina.Areas.Admin.Controllers
         [Route("CreateProduct")]
         public async Task<IActionResult> CreateProduct(CreateProductDto createProductDto)
         {
+            _imageOperations.FilePath = "Product";
             if (createProductDto.ImageFile != null && createProductDto.ImageFile.Length > 0)
             {
                 createProductDto.ImageUrl = await _imageOperations.UploadImageAsync(createProductDto.ImageFile);
@@ -88,6 +89,7 @@ namespace AlpayMakina.Areas.Admin.Controllers
         [Route("RemoveProduct/{id}")]
         public async Task<IActionResult> RemoveProduct(int id)
         {
+            _imageOperations.FilePath = "Product";
             var lastProduct = await _ProductRepository.GetProductAsync(id);
 
             await _imageOperations.DeleteIconAsync(lastProduct.ImageUrl);
@@ -129,14 +131,18 @@ namespace AlpayMakina.Areas.Admin.Controllers
         [Route("UpdateProduct/{id}")]
         public async Task<IActionResult> UpdateProduct(UpdateProductDto updateProductDto)
         {
+            _imageOperations.FilePath = "Product";
             if (updateProductDto.ImageFile != null && updateProductDto.ImageFile.Length > 0)
             {
                 var lastProduct = await _ProductRepository.GetProductAsync(updateProductDto.Id);
-
-                if (await _imageOperations.DeleteIconAsync(lastProduct.ImageUrl) || string.IsNullOrEmpty(lastProduct.ImageUrl))
-                {
-                    updateProductDto.ImageUrl = await _imageOperations.UploadImageAsync(updateProductDto.ImageFile);
-                }
+                bool test = await _imageOperations.DeleteIconAsync(lastProduct.ImageUrl);
+                
+                updateProductDto.ImageUrl = await _imageOperations.UploadImageAsync(updateProductDto.ImageFile);
+            }
+            else
+            {
+                var lastProduct = await _ProductRepository.GetProductAsync(updateProductDto.Id);
+                updateProductDto.ImageUrl = lastProduct.ImageUrl;
             }
             await _ProductRepository.UpdateProductAsync(updateProductDto);
 

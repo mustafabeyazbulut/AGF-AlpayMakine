@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using AlpayMakina.Repositories.AboutRepositories;
+using Microsoft.AspNetCore.Mvc;
 
 namespace AlpayMakina.Areas.UI.Controllers
 {
@@ -6,11 +7,20 @@ namespace AlpayMakina.Areas.UI.Controllers
     [Route("UI/About")]
     public class AboutController : Controller
 	{
+        private readonly IAboutRepository _aboutRepository;
+
+        public AboutController(IAboutRepository aboutRepository)
+        {
+            _aboutRepository = aboutRepository;
+        }
+
         [Route("")]
         [Route("Index")]
-        public IActionResult Index()
+        public async Task< IActionResult> Index()
 		{
-			return View();
+            var values = await _aboutRepository.GetAllAboutAsync();
+
+			return View(values);
 		}
 	}
 }

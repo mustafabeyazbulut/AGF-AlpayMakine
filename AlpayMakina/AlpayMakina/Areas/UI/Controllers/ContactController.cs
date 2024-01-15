@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using AlpayMakina.Repositories.ContactRepositories;
+using Microsoft.AspNetCore.Mvc;
 
 namespace AlpayMakina.Areas.UI.Controllers
 {
@@ -6,11 +7,19 @@ namespace AlpayMakina.Areas.UI.Controllers
     [Route("UI/Contact")]
     public class ContactController : Controller
 	{
+        private readonly IContactRepository _contactRepository;
+
+        public ContactController(IContactRepository contactRepository)
+        {
+            _contactRepository = contactRepository;
+        }
+
         [Route("")]
         [Route("Index")]
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
 		{
-			return View();
+            var values=await _contactRepository.GetAllContactAsync();
+			return View(values);
 		}
 	}
 }
