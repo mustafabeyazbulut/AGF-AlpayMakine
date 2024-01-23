@@ -72,8 +72,8 @@ app.UseAuthorization();
 
 //    );
 //});
-//app.UseStatusCodePagesWithReExecute("/Error/Index/{0}");
-//app.UseExceptionHandler("/Error/Index");
+app.UseStatusCodePagesWithReExecute("/Error/Index/{0}");
+app.UseExceptionHandler("/Error/Index");
 app.UseEndpoints(endpoints =>
 {
     // Belirli bir alan varsa bu route'u kullan
@@ -89,11 +89,11 @@ app.UseEndpoints(endpoints =>
     );
 
     // Sayfa bulunamadığında Error/Index action'ına git
-    //endpoints.MapControllerRoute(
-    //    name: "error",
-    //    pattern: "Error/{action=Index}/{id?}",
-    //    defaults: new { controller = "Error" }
-    //);
+    endpoints.MapControllerRoute(
+        name: "error",
+        pattern: "Error/{action=Index}/{id?}",
+        defaults: new { controller = "Error" }
+    );
 });
 
 app.Run();
