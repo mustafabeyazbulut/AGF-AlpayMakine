@@ -1,0 +1,43 @@
+﻿@model UpdateContactDto
+@{
+    ViewData["Title"] = "UpdateContact";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<<div class="card">
+    <div class="card-body">
+
+        <h4 class="card-title">Kategori Düzenleme Ekranı</h4>
+        <p class="card-subtitle mb-4">
+            kategori adını değiştirerek, kaydedebilirsiniz.
+        </p>
+
+        <form method="post">
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label for="CompanyName">Şirket Adı</label>
+                <input type="text" class="form-control" id="CompanyName" asp-for="CompanyName" placeholder="Şirket Adını giriniz">
+            </div>
+            <div class="form-group">
+                <label for="CompanyAddress">Şirket Adresi</label>
+                <input type="text" class="form-control" id="CompanyAddress" asp-for="CompanyAddress" placeholder="Şirket Adresini giriniz">
+            </div>
+            <div class="form-group">
+                <label for="Mobile">Şirket Telefonu</label>
+                <input type="text" class="form-control" id="Mobile" asp-for="Mobile" placeholder="Şirket Telefonunu giriniz">
+            </div>
+            <div class="form-group">
+                <label for="Fax">Fax</label>
+                <input type="text" class="form-control" id="Fax" asp-for="Fax" placeholder="Fax giriniz">
+            </div>
+            <div class="form-group">
+                <label for="Email">Fax</label>
+                <input type="text" class="form-control" id="Email" asp-for="Email" placeholder="Mail adresini giriniz">
+            </div>
+
+            <button type="submit" class="btn btn-primary waves-effect waves-light btnConfirm">Güncelle</button>
+        </form>
+
+    </div> <!-- end card-body-->
+</div>
+

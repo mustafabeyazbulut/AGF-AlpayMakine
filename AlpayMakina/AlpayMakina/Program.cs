@@ -14,8 +14,10 @@ using Microsoft.AspNetCore.Authentication.Cookies;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddControllersWithViews();
+
 builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation();
+builder.Services.AddRazorPages();
+builder.Services.AddRazorPages().AddRazorRuntimeCompilation();
 builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme).AddCookie(options =>
 {
     options.Cookie.Name = "AGFCookie";
@@ -39,8 +41,11 @@ builder.Services.AddScoped<HashHelper>();
 
 
 var app = builder.Build();
-
+IWebHostEnvironment environment = app.Environment;
+environment.ContentRootPath = AppDomain.CurrentDomain.BaseDirectory;
 // Configure the HTTP request pipeline.
+
+#if DEBUG
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Error/Index");
@@ -48,10 +53,11 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
     app.UseStatusCodePagesWithReExecute("/Error/Index", "?statusCode={0}");
 }
-
+#endif
 
 
 app.UseHttpsRedirection();
+app.UseDefaultFiles();
 app.UseStaticFiles();
 
 app.UseRouting();
@@ -95,5 +101,6 @@ app.UseEndpoints(endpoints =>
         defaults: new { controller = "Error" }
     );
 });
-
+app.MapControllers();
+app.MapRazorPages();
 app.Run();

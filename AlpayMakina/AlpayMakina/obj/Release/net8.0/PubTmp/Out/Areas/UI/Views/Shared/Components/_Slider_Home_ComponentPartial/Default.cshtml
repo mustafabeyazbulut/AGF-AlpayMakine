@@ -1,0 +1,50 @@
+﻿@model List<ResultSliderDto>
+@{
+    int count = 0;
+}
+<section id="slider">
+    <!--slider-->
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <div id="slider-carousel" class="carousel slide" data-ride="carousel">
+                    <ol class="carousel-indicators">
+                        @foreach (var item in Model)
+                        {
+                            <li data-target="#slider-carousel" data-slide-to="@count" class="@item.Active"></li>
+                            count++;
+                        }
+                      
+                    </ol>
+
+                    <div class="carousel-inner">
+
+                        @foreach (var item in Model)
+                        {
+                            <div class="item @item.Active">
+                                <div class="col-sm-6">
+                                    <h1><span>AGF</span>-ALPAY MAKİNA</h1>
+                                    <h2>@item.Title</h2>
+                                    <p>@item.Description</p>
+                                    <button type="button" class="btn btn-default get">Ürün Detayları</button>
+                                </div>
+                                <div class="col-sm-6">
+                                    <img src="/SliderPhoto/@item.ImageUrl" class="girl img-responsive" alt="" />
+                                    <img src="/SliderPhoto/@item.PriceUrl" class="pricing" alt="" />
+                                </div>
+                            </div>
+                        }
+                    </div>
+
+                    <a href="#slider-carousel" class="left control-carousel hidden-xs" data-slide="prev">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                    <a href="#slider-carousel" class="right control-carousel hidden-xs" data-slide="next">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section><!--/slider-->

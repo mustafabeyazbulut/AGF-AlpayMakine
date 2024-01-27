@@ -1,0 +1,68 @@
+﻿@model ResultProductDetailDto
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/UILayout/Index.cshtml";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-3">
+            @await Component.InvokeAsync("_Category_Home_ComponentPartial")
+        </div>
+
+        <div class="col-sm-9 padding-right">
+
+            <div class="product-details">
+                <!--product-details-->
+                <div class="col-sm-5">
+                    <div class="view-product">
+                        <img src="/Product/@Model.ImageUrl" alt="@Model.ImageUrl" />
+                        <h3>ZOOM</h3>
+                    </div>
+                </div>
+                <div class="col-sm-7">
+                    <div class="product-information">
+                        <!--/product-information-->
+                        <img src="~/Eshopper/images/product-details/new.jpg" class="newarrival" alt="" />
+                        <h2>@Model.Title</h2>
+                        @* <p></p> *@
+                        <img src="images/product-details/rating.png" alt="" />
+                        <span>
+                            <span>@String.Format("{0:N2}", Model.Price) @Model.Currency</span>
+                        </span>
+                        <p><b>Availability:</b> Stokta var</p>
+                        <p><b>Durum:</b> Yeni</p>
+                        @* <p><b>Brand:</b> E-SHOPPER</p> *@
+                        <a href=""><img src="~/Eshopper/images/product-details/share.png" class="share img-responsive" alt="" /></a>
+                    </div><!--/product-information-->
+                </div>
+            </div><!--/product-details-->
+
+			<div class="category-tab shop-details-tab">
+				<!--category-tab-->
+				<div class="col-sm-12">
+					<ul class="nav nav-tabs">
+                        <li class="active"><a href="#details" data-toggle="tab">Detaylar</a></li>
+					</ul>
+				</div>
+				<div class="tab-content">
+                    <div class="tab-pane fade active in" id="details">
+						<div class="col-sm-12">
+							<div class="product-image-wrapper">
+								<div class="single-products">
+									<div class="productinfo">
+                                        <p><b>Kategori:</b> @Model.CategoryName</p>
+                                        <p><b>Alt Kategori:</b> @Model.SubCategoryName</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div><!--/category-tab-->
+            @await Component.InvokeAsync("_Recommended_UI_ComponentPartial",new {CategoryId=Model.CategoryId})
+
+        </div>
+    </div>
+</div>
+

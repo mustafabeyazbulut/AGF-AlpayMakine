@@ -1,0 +1,32 @@
+﻿@model List<ResultProductDto>
+<div class="features_items">
+	<!--features_items-->
+	<h2 class="title text-center">Ürünler</h2>
+
+	@foreach (var item in Model)
+	{
+		<div class="col-sm-4">
+			<div  class="product-image-wrapper">
+                <div  class="single-products">
+					<div  class="productinfo text-center">
+						<img style="height:200px;width:200px" src="/Product/@item.ImageUrl" alt="" />
+						<h2>@String.Format("{0:N2}", @item.Price)<span>@item.Currency</span></h2>
+						<p style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap" >@item.Title</p>
+						<a href="/UI/ProductDetail/Index/@item.Id" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Ürün Detayları</a>
+					</div>
+					<div class="product-overlay">
+						<div class="overlay-content">
+							<h2>@String.Format("{0:N2}", @item.Price)<span>@item.Currency</span></h2>
+							<p>@item.Title</p>
+							<a href="/UI/ProductDetail/Index/@item.Id" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Ürün Detayları</a>
+						</div>
+					</div>
+				</div>
+				<div class="choose">
+					<ul class="nav nav-pills nav-justified">
+					</ul>
+				</div>
+			</div>
+		</div>
+	}
+</div><!--features_items-->

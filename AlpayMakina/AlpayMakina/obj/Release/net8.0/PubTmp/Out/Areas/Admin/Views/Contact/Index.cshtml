@@ -1,0 +1,52 @@
+﻿@model List<ResultContactDto>
+@{
+    ViewData["Title"] = "CreateContact";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+    int count = 0;
+}
+<div class="card">
+    <div class="card-body">
+        <h4 class="card-title">İletişim Bilgisi Yönetim Sayfası</h4>
+        <p class="card-subtitle mb-4">
+            İletişim Sayfası için ekleme işlemini buradan gerçekleştirebilirsiniz.
+        </p>
+        <a href="/Admin/Contact/CreateContact/" class="btn btn-outline-primary">Yeni İletişim Girişi</a>
+        <br />
+        <br />
+        <div class="table-responsive">
+            <table class="table mb-0">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>CompanyName</th>
+                        <th>CompanyAddress</th>
+                        <th>Mobile</th>
+                        <th>Fax</th>
+                        <th>Email</th>
+                        <th>Sil</th>
+                        <th>Güncelle</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        count++;
+                        <tr>
+                            <td>@count</td>
+                            <td>@item.CompanyName</td>
+                            <td>@item.CompanyAddress</td>
+                            <td>@item.Mobile</td>
+                            <td>@item.Fax</td>
+                            <td>@item.Email</td>
+                            <td><a href="/Admin/Contact/RemoveContact/@item.Id" class="btn btn-outline-danger btnConfirm">Sil</a></td>
+                            <td><a href="/Admin/Contact/UpdateContact/@item.Id" class="btn btn-outline-success">Güncelle</a></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+        </div>
+
+    </div>
+    <!-- end card-body-->
+</div>

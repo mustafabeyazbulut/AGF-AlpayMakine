@@ -1,0 +1,41 @@
+﻿@model CreateCompanyInformationDto
+@{
+    ViewData["Title"] = "CreateCompanyInformation";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<div class="card">
+    <div class="card-body">
+
+        <h4 class="card-title">Yeni Şirket Bilgisi Girişi</h4>
+        <p class="card-subtitle mb-4">
+            Yeni şirket bilgisi giriş işlemini buradan yapabilirsiniz. Lütfen sadece bir kayıt ekleyiniz. Sadece bir kayıt listelenmektedir.
+        </p>
+
+        <form method="post">
+            <div class="form-group">
+                <label for="Name">Şirket adı</label>
+                <input type="text" class="form-control" id="Name" asp-for="Name" placeholder="Name giriniz">
+            </div>
+            <div class="form-group">
+                <label for="Address">Address</label>
+                <input type="text" class="form-control" id="Address" asp-for="Address" placeholder="Address giriniz">
+            </div>
+            <div class="form-group">
+                <label for="Mail">Mail Adresi</label>
+                <input type="text" class="form-control" id="Mail" asp-for="Mail" placeholder="Mail giriniz">
+            </div>
+            <div class="form-group">
+                <label for="Description">Şirket Açıklaması</label>
+                <input type="text" class="form-control" id="Description" asp-for="Description" placeholder="Description giriniz">
+            </div>
+            <div class="form-group">
+                <label for="PhoneNumber">Telefon Numarası</label>
+                <input type="text" class="form-control" id="PhoneNumber" asp-for="PhoneNumber" placeholder="PhoneNumber giriniz">
+            </div>
+
+            <button type="submit" class="btn btn-primary waves-effect waves-light btnConfirm">Şirket bilgisini Kaydet</button>
+        </form>
+
+    </div> <!-- end card-body-->
+</div>

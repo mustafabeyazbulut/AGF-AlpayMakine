@@ -20,5 +20,9 @@
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgMicrosoft_CodeAnalysis_Analyzers Condition=" '$(PkgMicrosoft_CodeAnalysis_Analyzers)' == '' ">C:\Users\mbeyazbulut\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.4</PkgMicrosoft_CodeAnalysis_Analyzers>
     <PkgMicrosoft_CodeAnalysis_AnalyzerUtilities Condition=" '$(PkgMicrosoft_CodeAnalysis_AnalyzerUtilities)' == '' ">C:\Users\mbeyazbulut\.nuget\packages\microsoft.codeanalysis.analyzerutilities\3.3.0</PkgMicrosoft_CodeAnalysis_AnalyzerUtilities>
+    <PkgMicrosoft_VisualStudio_Web_CodeGeneration_Design Condition=" '$(PkgMicrosoft_VisualStudio_Web_CodeGeneration_Design)' == '' ">C:\Users\mbeyazbulut\.nuget\packages\microsoft.visualstudio.web.codegeneration.design\8.0.0</PkgMicrosoft_VisualStudio_Web_CodeGeneration_Design>
+    <PkgMicrosoft_EntityFrameworkCore_SqlServer Condition=" '$(PkgMicrosoft_EntityFrameworkCore_SqlServer)' == '' ">C:\Users\mbeyazbulut\.nuget\packages\microsoft.entityframeworkcore.sqlserver\8.0.1</PkgMicrosoft_EntityFrameworkCore_SqlServer>
+    <PkgMicrosoft_AspNetCore_Mvc_Razor_RuntimeCompilation Condition=" '$(PkgMicrosoft_AspNetCore_Mvc_Razor_RuntimeCompilation)' == '' ">C:\Users\mbeyazbulut\.nuget\packages\microsoft.aspnetcore.mvc.razor.runtimecompilation\8.0.1</PkgMicrosoft_AspNetCore_Mvc_Razor_RuntimeCompilation>
+    <PkgDapper Condition=" '$(PkgDapper)' == '' ">C:\Users\mbeyazbulut\.nuget\packages\dapper\2.1.28</PkgDapper>
   </PropertyGroup>
 </Project>

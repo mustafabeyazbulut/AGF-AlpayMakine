@@ -1,0 +1,55 @@
+﻿@model List<ResultSliderDto>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+    int count = 0;
+}
+
+<div class="card">
+    <div class="card-body">
+        <h4 class="card-title">Slayt Alanı Yönetim Sayfası</h4>
+        <p class="card-subtitle mb-4">
+            slayt alanına ürün ekleme işlemini buradan yapabilirsiniz. Active alanı için sadece bir tane üründe active olarak kayıt olmalıdır. Diğer kayıtlar boş olmalıdır. Maksimum 4 kayıt önerilmektedir.
+
+        </p>
+        <a href="/Admin/Slider/CreateSlider/" class="btn btn-outline-primary">Yeni Slayt Girişi</a>
+        <br />
+        <br />
+        <div class="table-responsive">
+            <table class="table mb-0">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Title</th>
+                        <th>Description</th>
+                        <th>ImageUrl</th>
+                        <th>PriceUrl</th>
+                        <th>Active</th>
+                        <th>Sil</th>
+                        <th>Güncelle</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        count++;
+                        <tr>
+                            <td>@count</td>
+                            <td>@item.Title</td>
+                            <td>@item.Description</td>
+                            <td>@item.ImageUrl</td>
+                            <td>@item.PriceUrl</td>
+                            <td>@item.Active</td>
+                            <td><a href="/Admin/Slider/RemoveSlider/@item.Id" class="btn btn-outline-danger btnConfirm">Sil</a></td>
+                            <td><a href="/Admin/Slider/UpdateSlider/@item.Id" class="btn btn-outline-success">Güncelle</a></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+        </div>
+
+    </div>
+    <!-- end card-body-->
+</div>
+

@@ -1,0 +1,55 @@
+﻿@model List<ResultProductDto>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+    int count = 0;
+}
+<div class="card">
+    <div class="card-body">
+        <h4 class="card-title">Ürün Yönetim Sayfası</h4>
+        <p class="card-subtitle mb-4">
+            Ürünler ile ilgi işlemleri buradan gerçekleştirebilirsiniz. Bir ürünün alt Kategorisi var ise Kategori belirtmenize gerek yoktur. Alt Kategorisi olmayan ürünler için Kategori belirtmeniz zorunludur.
+
+        </p>
+        <a href="/Admin/Product/CreateProduct/" class="btn btn-outline-primary">Yeni Ürün Girişi</a>
+        <br />
+        <br />
+        <div class="table-responsive">
+            <table class="table mb-0">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Title</th>
+                        <th>Price</th>
+                        <th>Currency</th>
+                        <th>ImageUrl</th>
+                        <th>Kategorisi</th>
+                        <th>Alt Kategorisi</th>
+                        <th>Sil</th>
+                        <th>Güncelle</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        count++;
+                        <tr>
+                            <td>@count</td>
+                            <td>@item.Title</td>
+                            <td>@item.Price</td>
+                            <td>@item.Currency</td>
+                            <td>@item.ImageUrl</td>
+                            <td>@item.Category</td>
+                            <td>@item.SubCategory</td>
+                            <td><a href="/Admin/Product/RemoveProduct/@item.Id" class="btn btn-outline-danger btnConfirm">Sil</a></td>
+                            <td><a href="/Admin/Product/UpdateProduct/@item.Id" class="btn btn-outline-success">Güncelle</a></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+        </div>
+
+    </div>
+    <!-- end card-body-->
+</div>
