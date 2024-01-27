@@ -25,6 +25,7 @@
                         <th>ImageUrl</th>
                         <th>Kategorisi</th>
                         <th>Alt Kategorisi</th>
+                        <th>Öne Çıkan Ürünler</th>
                         <th>Sil</th>
                         <th>Güncelle</th>
                     </tr>
@@ -41,6 +42,18 @@
                             <td>@item.ImageUrl</td>
                             <td>@item.Category</td>
                             <td>@item.SubCategory</td>
+                            <td>
+                                @if (@item.Feature)
+                                {
+                                    <text>Ekli</text>
+                                    
+                                }
+                                else
+                                {
+                                    <text>Ekli değil</text>
+                                   
+                                }
+                            </td>
                             <td><a href="/Admin/Product/RemoveProduct/@item.Id" class="btn btn-outline-danger btnConfirm">Sil</a></td>
                             <td><a href="/Admin/Product/UpdateProduct/@item.Id" class="btn btn-outline-success">Güncelle</a></td>
                         </tr>

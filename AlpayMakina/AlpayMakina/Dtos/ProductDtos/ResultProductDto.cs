@@ -11,5 +11,6 @@
         public int CategoryId { get; set; }
         public string SubCategory { get; set; }
         public int SubCategoryId { get; set; }
+        public bool Feature { get; set; }
     }
 }

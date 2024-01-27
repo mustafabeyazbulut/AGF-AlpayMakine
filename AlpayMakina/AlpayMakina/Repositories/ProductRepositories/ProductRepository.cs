@@ -26,7 +26,8 @@ namespace AlpayMakina.Repositories.ProductRepositories
                                 Category.Category,                
                                 Product.CategoryId,                
                                 SubCategory.SubCategory,                
-                                Product.SubCategoryId                
+                                Product.SubCategoryId,                
+                                Product.Feature                
                              FROM 
                                 Product
                              LEFT JOIN
@@ -65,7 +66,7 @@ namespace AlpayMakina.Repositories.ProductRepositories
         }
         public async Task AddProductAsync(CreateProductDto createProductDto)
         {
-            string query = "insert into Product (Title,Price,Currency,ImageUrl,CategoryId,SubCategoryId) values (@Title,@Price,@Currency,@ImageUrl,@CategoryId,@SubCategoryId)";
+            string query = "insert into Product (Title,Price,Currency,ImageUrl,CategoryId,SubCategoryId,Feature) values (@Title,@Price,@Currency,@ImageUrl,@CategoryId,@SubCategoryId,@Feature)";
             var parameters = new DynamicParameters();
             parameters.Add("@Title", createProductDto.Title);
             parameters.Add("@Price", createProductDto.Price);
@@ -73,6 +74,7 @@ namespace AlpayMakina.Repositories.ProductRepositories
             parameters.Add("@ImageUrl", createProductDto.ImageUrl);
             parameters.Add("@CategoryId", createProductDto.CategoryId);
             parameters.Add("@SubCategoryId", createProductDto.SubCategoryId);
+            parameters.Add("@Feature", createProductDto.Feature);
 
             using (var connection = _context.CreateConnection())
             {
@@ -105,7 +107,7 @@ namespace AlpayMakina.Repositories.ProductRepositories
 
         public async Task UpdateProductAsync(UpdateProductDto updateProductDto)
         {
-            string query = "Update Product Set Title=@Title, Price=@Price, Currency=@Currency, ImageUrl=@ImageUrl, CategoryId=@CategoryId, SubCategoryId=@SubCategoryId where Id=@Id";
+            string query = "Update Product Set Title=@Title, Price=@Price, Currency=@Currency, ImageUrl=@ImageUrl, CategoryId=@CategoryId, SubCategoryId=@SubCategoryId, Feature=@Feature where Id=@Id";
             var parameters = new DynamicParameters();
             parameters.Add("@Id", updateProductDto.Id);
             parameters.Add("@Title", updateProductDto.Title);
@@ -113,7 +115,8 @@ namespace AlpayMakina.Repositories.ProductRepositories
             parameters.Add("@Currency", updateProductDto.Currency);
             parameters.Add("@ImageUrl", updateProductDto.ImageUrl);
             parameters.Add("@CategoryId", updateProductDto.CategoryId);
-            parameters.Add("@SubCategoryId", updateProductDto.SubCategoryId);
+            parameters.Add("@SubCategoryId", updateProductDto.SubCategoryId); 
+            parameters.Add("@Feature", updateProductDto.Feature); 
             using (var connection = _context.CreateConnection())
             {
                 await connection.ExecuteAsync(query, parameters);
@@ -132,7 +135,8 @@ namespace AlpayMakina.Repositories.ProductRepositories
                                 Category.Category,                
                                 Product.CategoryId,                
                                 SubCategory.SubCategory,                
-                                Product.SubCategoryId                
+                                Product.SubCategoryId,
+                                Product.Feature 
                              FROM 
                                 Product
                              LEFT JOIN
@@ -162,7 +166,8 @@ namespace AlpayMakina.Repositories.ProductRepositories
                                 Category.Category,                
                                 Product.CategoryId,                
                                 SubCategory.SubCategory,                
-                                Product.SubCategoryId                
+                                Product.SubCategoryId,
+                                Product.Feature 
                              FROM 
                                 Product
                              LEFT JOIN
