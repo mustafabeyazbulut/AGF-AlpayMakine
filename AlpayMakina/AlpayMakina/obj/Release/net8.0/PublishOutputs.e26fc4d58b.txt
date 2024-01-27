@@ -35,7 +35,9 @@ C:\Users\mbeyazbulut\Documents\GitHub\AGF-AlpayMakine\AlpayMakina\AlpayMakina\ob
 C:\Users\mbeyazbulut\Documents\GitHub\AGF-AlpayMakine\AlpayMakina\AlpayMakina\obj\Release\net8.0\PubTmp\Out\Areas\UI\Views\Contact\Index.cshtml
 C:\Users\mbeyazbulut\Documents\GitHub\AGF-AlpayMakine\AlpayMakina\AlpayMakina\obj\Release\net8.0\PubTmp\Out\Areas\UI\Views\Home\Index.cshtml
 C:\Users\mbeyazbulut\Documents\GitHub\AGF-AlpayMakine\AlpayMakina\AlpayMakina\obj\Release\net8.0\PubTmp\Out\Areas\UI\Views\ProductDetail\Index.cshtml
+C:\Users\mbeyazbulut\Documents\GitHub\AGF-AlpayMakine\AlpayMakina\AlpayMakina\obj\Release\net8.0\PubTmp\Out\Areas\UI\Views\Products\Index.cshtml
 C:\Users\mbeyazbulut\Documents\GitHub\AGF-AlpayMakine\AlpayMakina\AlpayMakina\obj\Release\net8.0\PubTmp\Out\Areas\UI\Views\Shared\Components\_Category_Home_ComponentPartial\Default.cshtml
+C:\Users\mbeyazbulut\Documents\GitHub\AGF-AlpayMakine\AlpayMakina\AlpayMakina\obj\Release\net8.0\PubTmp\Out\Areas\UI\Views\Shared\Components\_Products_ComponentPartial\Default.cshtml
 C:\Users\mbeyazbulut\Documents\GitHub\AGF-AlpayMakine\AlpayMakina\AlpayMakina\obj\Release\net8.0\PubTmp\Out\Areas\UI\Views\Shared\Components\_Products_Home_ComponentPartial\Default.cshtml
 C:\Users\mbeyazbulut\Documents\GitHub\AGF-AlpayMakine\AlpayMakina\AlpayMakina\obj\Release\net8.0\PubTmp\Out\Areas\UI\Views\Shared\Components\_Recommended_UI_ComponentPartial\Default.cshtml
 C:\Users\mbeyazbulut\Documents\GitHub\AGF-AlpayMakine\AlpayMakina\AlpayMakina\obj\Release\net8.0\PubTmp\Out\Areas\UI\Views\Shared\Components\_Slider_Home_ComponentPartial\Default.cshtml
@@ -371,6 +373,13 @@ C:\Users\mbeyazbulut\Documents\GitHub\AGF-AlpayMakine\AlpayMakina\AlpayMakina\ob
 C:\Users\mbeyazbulut\Documents\GitHub\AGF-AlpayMakine\AlpayMakina\AlpayMakina\obj\Release\net8.0\PubTmp\Out\Azure.Identity.dll
 C:\Users\mbeyazbulut\Documents\GitHub\AGF-AlpayMakine\AlpayMakina\AlpayMakina\obj\Release\net8.0\PubTmp\Out\Dapper.dll
 C:\Users\mbeyazbulut\Documents\GitHub\AGF-AlpayMakine\AlpayMakina\AlpayMakina\obj\Release\net8.0\PubTmp\Out\Humanizer.dll
+C:\Users\mbeyazbulut\Documents\GitHub\AGF-AlpayMakine\AlpayMakina\AlpayMakina\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.Authorization.dll
+C:\Users\mbeyazbulut\Documents\GitHub\AGF-AlpayMakine\AlpayMakina\AlpayMakina\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.Components.dll
+C:\Users\mbeyazbulut\Documents\GitHub\AGF-AlpayMakine\AlpayMakina\AlpayMakina\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\mbeyazbulut\Documents\GitHub\AGF-AlpayMakine\AlpayMakina\AlpayMakina\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.Components.QuickGrid.dll
+C:\Users\mbeyazbulut\Documents\GitHub\AGF-AlpayMakine\AlpayMakina\AlpayMakina\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+C:\Users\mbeyazbulut\Documents\GitHub\AGF-AlpayMakine\AlpayMakina\AlpayMakina\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\mbeyazbulut\Documents\GitHub\AGF-AlpayMakine\AlpayMakina\AlpayMakina\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.Metadata.dll
 C:\Users\mbeyazbulut\Documents\GitHub\AGF-AlpayMakine\AlpayMakina\AlpayMakina\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
 C:\Users\mbeyazbulut\Documents\GitHub\AGF-AlpayMakine\AlpayMakina\AlpayMakina\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
 C:\Users\mbeyazbulut\Documents\GitHub\AGF-AlpayMakine\AlpayMakina\AlpayMakina\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.Razor.Language.dll
@@ -395,6 +404,7 @@ C:\Users\mbeyazbulut\Documents\GitHub\AGF-AlpayMakine\AlpayMakina\AlpayMakina\ob
 C:\Users\mbeyazbulut\Documents\GitHub\AGF-AlpayMakine\AlpayMakina\AlpayMakina\obj\Release\net8.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\mbeyazbulut\Documents\GitHub\AGF-AlpayMakine\AlpayMakina\AlpayMakina\obj\Release\net8.0\PubTmp\Out\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\mbeyazbulut\Documents\GitHub\AGF-AlpayMakine\AlpayMakina\AlpayMakina\obj\Release\net8.0\PubTmp\Out\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mbeyazbulut\Documents\GitHub\AGF-AlpayMakine\AlpayMakina\AlpayMakina\obj\Release\net8.0\PubTmp\Out\Microsoft.Extensions.Options.dll
 C:\Users\mbeyazbulut\Documents\GitHub\AGF-AlpayMakine\AlpayMakina\AlpayMakina\obj\Release\net8.0\PubTmp\Out\Microsoft.Identity.Client.dll
 C:\Users\mbeyazbulut\Documents\GitHub\AGF-AlpayMakine\AlpayMakina\AlpayMakina\obj\Release\net8.0\PubTmp\Out\Microsoft.Identity.Client.Extensions.Msal.dll
 C:\Users\mbeyazbulut\Documents\GitHub\AGF-AlpayMakine\AlpayMakina\AlpayMakina\obj\Release\net8.0\PubTmp\Out\Microsoft.IdentityModel.Abstractions.dll
@@ -403,6 +413,7 @@ C:\Users\mbeyazbulut\Documents\GitHub\AGF-AlpayMakine\AlpayMakina\AlpayMakina\ob
 C:\Users\mbeyazbulut\Documents\GitHub\AGF-AlpayMakine\AlpayMakina\AlpayMakina\obj\Release\net8.0\PubTmp\Out\Microsoft.IdentityModel.Protocols.dll
 C:\Users\mbeyazbulut\Documents\GitHub\AGF-AlpayMakine\AlpayMakina\AlpayMakina\obj\Release\net8.0\PubTmp\Out\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\mbeyazbulut\Documents\GitHub\AGF-AlpayMakine\AlpayMakina\AlpayMakina\obj\Release\net8.0\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mbeyazbulut\Documents\GitHub\AGF-AlpayMakine\AlpayMakina\AlpayMakina\obj\Release\net8.0\PubTmp\Out\Microsoft.JSInterop.dll
 C:\Users\mbeyazbulut\Documents\GitHub\AGF-AlpayMakine\AlpayMakina\AlpayMakina\obj\Release\net8.0\PubTmp\Out\Microsoft.NET.StringTools.dll
 C:\Users\mbeyazbulut\Documents\GitHub\AGF-AlpayMakine\AlpayMakina\AlpayMakina\obj\Release\net8.0\PubTmp\Out\Microsoft.SqlServer.Server.dll
 C:\Users\mbeyazbulut\Documents\GitHub\AGF-AlpayMakine\AlpayMakina\AlpayMakina\obj\Release\net8.0\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.dll

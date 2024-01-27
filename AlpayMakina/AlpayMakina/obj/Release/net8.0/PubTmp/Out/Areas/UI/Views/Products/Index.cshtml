@@ -1,0 +1,26 @@
+﻿@model List<ResultProductDto>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/UILayout/Index.cshtml";
+}
+
+<section>
+    <div class="container">
+        <div class="row">
+            </br>
+            </br>
+        </div>
+        <div class="row">
+            <div class="col-sm-3">
+                @await Component.InvokeAsync("_Category_Home_ComponentPartial")
+            </div>
+
+            <div class="col-sm-9 padding-right">
+                @* @await Component.InvokeAsync("_Products_Home_ComponentPartial",new {Id=ViewBag.CategoryId}) *@
+                @await Component.InvokeAsync("_Products_ComponentPartial", new { CategoryId = ViewBag.CategoryId, SubCategoryId = ViewBag.SubCategoryId })
+
+            </div>
+        </div>
+    </div>
+</section>
+
