@@ -12,5 +12,7 @@ namespace AlpayMakina.Repositories.ProductRepositories
         Task<UpdateProductDto> GetProductAsync(int id);
         Task<ResultProductDetailDto> GetProductDetailAsync(int id);
         Task UpdateProductAsync(UpdateProductDto updateProductDto);
+        Task<List<ResultProductDto>> GetFeatureProductAsync();
+
     }
 }

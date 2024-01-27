@@ -3,11 +3,15 @@
     <h2>Kategoriler</h2>
     <div class="panel-group category-products" id="accordian">
         <!--category-productsr-->
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title"><a href="/UI/Products/Index/0">TÜM KATEGORİLER</a></h4>
+            </div>
         @foreach (var item in Model)
         {
             if (item.SubCategoryList.Count > 0)
             {
-                <div class="panel panel-default">
+                
                     <div class="panel-heading">
                         <h4 class="panel-title">
                             <a data-toggle="collapse" data-parent="#accordian" href="#@item.Id">
@@ -22,22 +26,24 @@
                             <ul>
                                 @foreach (var item2 in item.SubCategoryList)
                                 {
-                                    <li><a href="/UI/Home/Index/@item.Id">@item2.subCategory </a></li>
+                                    <li><a href="/UI/Products/Index/@item.Id/@item2.Id">@item2.subCategory </a></li>
                                 }
                             </ul>
                         </div>
                     </div>
-                </div>
+                
             }
             else
             {
-                <div class="panel panel-default">
+               
                     <div class="panel-heading">
-                        <h4 class="panel-title"><a href="/UI/Home/Index/@item.Id">@item.Category</a></h4>
+                        <h4 class="panel-title"><a href="/UI/Products/Index/@item.Id">@item.Category</a></h4>
                     </div>
-                </div>
+                
             }
 
         }
+        </div>
+
     </div><!--/category-products-->
 </div>

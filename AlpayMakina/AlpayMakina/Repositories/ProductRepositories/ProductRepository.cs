@@ -149,5 +149,33 @@ namespace AlpayMakina.Repositories.ProductRepositories
 				return values;
 			}
 		}
+
+		public async Task<List<ResultProductDto>> GetFeatureProductAsync()
+		{
+			string query = @"
+                            Select 
+                                Product.Id,
+                                Product.Title,
+                                Product.Price,                
+                                Product.Currency,                
+                                Product.ImageUrl,                
+                                Category.Category,                
+                                Product.CategoryId,                
+                                SubCategory.SubCategory,                
+                                Product.SubCategoryId                
+                             FROM 
+                                Product
+                             LEFT JOIN
+                                Category On Product.CategoryId=Category.Id
+                             LEFT JOIN
+                                SubCategory On Product.SubCategoryId=SubCategory.Id
+                             WHERE 
+                                Product.Feature = 'true'";
+			using (var connection = _context.CreateConnection())
+			{
+				var values = await connection.QueryAsync<ResultProductDto>(query);
+				return values.ToList();
+			}
+		}
 	}
 }

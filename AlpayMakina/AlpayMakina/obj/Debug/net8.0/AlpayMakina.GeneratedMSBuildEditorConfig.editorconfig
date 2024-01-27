@@ -162,8 +162,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVUlcVmlld3NcUHJvZHVjdERldGFpbFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/mbeyazbulut/Documents/GitHub/AGF-AlpayMakine/AlpayMakina/AlpayMakina/Areas/UI/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVUlcVmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/mbeyazbulut/Documents/GitHub/AGF-AlpayMakine/AlpayMakina/AlpayMakina/Areas/UI/Views/Shared/Components/_Category_Home_ComponentPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVUlcVmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0NhdGVnb3J5X0hvbWVfQ29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mbeyazbulut/Documents/GitHub/AGF-AlpayMakine/AlpayMakina/AlpayMakina/Areas/UI/Views/Shared/Components/_Products_ComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVUlcVmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1Byb2R1Y3RzX0NvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/mbeyazbulut/Documents/GitHub/AGF-AlpayMakine/AlpayMakina/AlpayMakina/Areas/UI/Views/Shared/Components/_Products_Home_ComponentPartial/Default.cshtml]
