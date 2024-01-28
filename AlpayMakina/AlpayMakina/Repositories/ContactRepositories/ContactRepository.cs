@@ -66,7 +66,7 @@ namespace AlpayMakina.Repositories.ContactRepositories
             parameters.Add("@CompanyAddress", updateContactDto.CompanyAddress);
             parameters.Add("@Mobile", updateContactDto.Mobile);
             parameters.Add("@Fax", updateContactDto.Fax);
-            parameters.Add("@Description", updateContactDto.Email);
+            parameters.Add("@Email", updateContactDto.Email);
 
             using (var connection = _context.CreateConnection())
             {

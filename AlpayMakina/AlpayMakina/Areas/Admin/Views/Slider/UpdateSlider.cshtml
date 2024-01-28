@@ -11,7 +11,7 @@
             Social Media Hesabını aşağıdan düzenleyebilirsiniz. Icon Görselleri class alanına <a href="https://fontawesome.com/">fontawesome</a> sitesinden ekleme yapabilirsiniz.
         </p>
 
-        <form method="post">
+        <form method="post" enctype="multipart/form-data">
             <input type="hidden" asp-for="Id" />
             <div class="form-group">
                 <label for="Title">Başlık</label>
@@ -21,14 +21,27 @@
                 <label for="Description">Açıklama</label>
                 <input type="text" class="form-control" id="Description" asp-for="Description" placeholder="Açıklama giriniz">
             </div>
+
             <div class="form-group">
-                <label for="ImageUrl">Fotoğfraf</label>
-                <input type="text" class="form-control" id="ImageUrl" asp-for="ImageUrl" placeholder="Fotoğraf Seçiniz">
+                <label for="ProductImageFile">Fotoğraf</label>
+                <input type="file" class="form-control" id="ProductImageFile" asp-for="ProductImageFile"  accept=".jpg, .jpeg, .png" onchange="previewImageProduct(this)">
+            </div>
+
+            <div class="form-group">
+                <label for="ImageUrl">Ürün Fotoğrafı</label>
+                <img id="ImageUrlPreviewProduct" src="~/SliderPhoto/@Model.ImageUrl" class="form-control" style="width:200px;height:200px">
+            </div>
+
+
+            <div class="form-group">
+                <label for="PriceImageFile">Fiyat Fotoğrafı</label>
+                <input type="file" class="form-control" id="PriceImageFile" asp-for="PriceImageFile" accept=".jpg, .jpeg, .png" onchange="previewImagePrice(this)">
             </div>
             <div class="form-group">
                 <label for="PriceUrl">Fiyat Fotoğrafı</label>
-                <input type="text" class="form-control" id="PriceUrl" asp-for="PriceUrl" placeholder="Fiyat fotoğrafı giriniz">
+                <img id="ImageUrlPreviewPrice" src="~/SliderPhoto/@Model.PriceUrl" class="form-control" style="width:200px;height:200px">
             </div>
+
             <div class="form-group">
                 <label for="Href">Active</label>
                 <input type="text" class="form-control" id="Href" asp-for="Active" placeholder="sadece bir kayıt için active olacak diğer kayıtlar için boş geçilecek">
@@ -40,3 +53,26 @@
     </div> <!-- end card-body-->
 </div>
 
+
+<script>
+    function previewImageProduct(input) {
+        console.log("a");
+        if (input.files && input.files[0]) {
+            var reader = new FileReader();
+            reader.onload = function (e) {
+                $('#ImageUrlPreviewProduct').attr('src', e.target.result);
+            };
+            reader.readAsDataURL(input.files[0]);
+        }
+    }
+    function previewImagePrice(input) {
+        console.log("a");
+        if (input.files && input.files[0]) {
+            var reader = new FileReader();
+            reader.onload = function (e) {
+                $('#ImageUrlPreviewPrice').attr('src', e.target.result);
+            };
+            reader.readAsDataURL(input.files[0]);
+        }
+    }
+</script>

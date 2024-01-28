@@ -11,7 +11,7 @@
             Yeni slayt ekleme işlemini alt taraftan yapabilirsiniz. Active alanı için sadece bir tane üründe active olarak kayıt olmalıdır. Diğer kayıtlar boş olmalıdır. Maksimum 4 kayıt önerilmektedir.
         </p>
 
-        <form method="post">
+        <form method="post" enctype="multipart/form-data">
             <div class="form-group">
                 <label for="Title">Başlık</label>
                 <input type="text" class="form-control" id="Title" asp-for="Title" placeholder="Başlık giriniz">
@@ -21,13 +21,23 @@
                 <input type="text" class="form-control" id="Description" asp-for="Description" placeholder="Açıklama giriniz">
             </div>
             <div class="form-group">
-                <label for="ImageUrl">Fotoğfraf</label>
-                <input type="text" class="form-control" id="ImageUrl" asp-for="ImageUrl" placeholder="Fotoğraf Seçiniz">
+                <label for="ProductImageFile">Fotoğfraf</label>
+                <input type="file" class="form-control" id="ProductImageFile" asp-for="ProductImageFile" placeholder="Fotoğraf Seçiniz" accept=".jpg, .jpeg, .png" onchange="previewImageProduct(this)">
             </div>
             <div class="form-group">
-                <label for="PriceUrl">Fiyat Fotoğrafı</label>
-                <input type="text" class="form-control" id="PriceUrl" asp-for="PriceUrl" placeholder="Fiyat fotoğrafı giriniz">
+                <label for="ImageUrl">Ürün Fotoğrafı</label>
+                <img id="ImageUrlPreviewProduct" class="form-control" style="width:200px;height:200px">
             </div>
+            <div class="form-group">
+                <label for="PriceImageFile">Fiyat Fotoğrafı</label>
+                <input type="file" class="form-control" id="PriceImageFile" asp-for="PriceImageFile" placeholder="Fiyat fotoğrafı giriniz " accept=".jpg, .jpeg, .png" onchange="previewImagePrice(this)">
+            </div>
+
+            <div class="form-group">
+                <label for="PriceUrl">Fiyat Fotoğrafı</label>
+                <img id="ImageUrlPreviewPrice" class="form-control" style="width:200px;height:200px">
+            </div>
+
             <div class="form-group">
                 <label for="Href">Active</label>
                 <input type="text" class="form-control" id="Href" asp-for="Active" placeholder="sadece bir kayıt için active olacak diğer kayıtlar için boş geçilecek">
@@ -40,3 +50,26 @@
 </div>
 
 
+
+<script>
+    function previewImageProduct(input) {
+        console.log("a");
+        if (input.files && input.files[0]) {
+            var reader = new FileReader();
+            reader.onload = function (e) {
+                $('#ImageUrlPreviewProduct').attr('src', e.target.result);
+            };
+            reader.readAsDataURL(input.files[0]);
+        }
+    }
+    function previewImagePrice(input) {
+        console.log("a");
+        if (input.files && input.files[0]) {
+            var reader = new FileReader();
+            reader.onload = function (e) {
+                $('#ImageUrlPreviewPrice').attr('src', e.target.result);
+            };
+            reader.readAsDataURL(input.files[0]);
+        }
+    }
+</script>
