@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lFYNQOuasKcaDngaq9tEC1PHkQdITiKVckgZc++V/RE=",
+  "Hash": "AgawketIbfoNaVI9cTx2CGmLdCHIHEO4Ln/ciXTTxNI=",
   "Source": "AlpayMakina",
   "BasePath": "_content/AlpayMakina",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\AboutPhoto\\78705df05489421d835bab7d6e585f5a.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\AboutPhoto\\c61206312d64493eb52bf68c3d0fd797.jpg",
+      "SourceId": "AlpayMakina",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\",
+      "BasePath": "_content/AlpayMakina",
+      "RelativePath": "AboutPhoto/c61206312d64493eb52bf68c3d0fd797.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\AboutPhoto\\c61206312d64493eb52bf68c3d0fd797.jpg"
     },
     {
       "Identity": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\AboutPhoto\\e37f7afe7c114c10af00f863f4a1bc4e.jpeg",
@@ -14932,6 +14951,25 @@
       "OriginalItemSpec": "wwwroot\\Product\\2af5452df0c643e6ac3ea976a5db1ba1.jpeg"
     },
     {
+      "Identity": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\794028657fa5497cb35daf9b9fc0b7f5.jpg",
+      "SourceId": "AlpayMakina",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\",
+      "BasePath": "_content/AlpayMakina",
+      "RelativePath": "Product/794028657fa5497cb35daf9b9fc0b7f5.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Product\\794028657fa5497cb35daf9b9fc0b7f5.jpg"
+    },
+    {
       "Identity": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\978786be142d4fe6987ff6791aa08c5e.jpeg",
       "SourceId": "AlpayMakina",
       "SourceType": "Discovered",
@@ -14987,25 +15025,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\SliderPhoto\\pricing.png"
-    },
-    {
-      "Identity": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\SliderPhoto\\ProjcbPlusAmerican.jpeg",
-      "SourceId": "AlpayMakina",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\",
-      "BasePath": "_content/AlpayMakina",
-      "RelativePath": "SliderPhoto/ProjcbPlusAmerican.jpeg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\SliderPhoto\\ProjcbPlusAmerican.jpeg"
     },
     {
       "Identity": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\SliderPhoto\\veta-vt07104.jpg",

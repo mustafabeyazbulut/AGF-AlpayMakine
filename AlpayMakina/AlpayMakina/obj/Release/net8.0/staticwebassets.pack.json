@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\AboutPhoto\\78705df05489421d835bab7d6e585f5a.jpeg"
     },
     {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\AboutPhoto\\c61206312d64493eb52bf68c3d0fd797.jpg",
+      "PackagePath": "staticwebassets\\AboutPhoto\\c61206312d64493eb52bf68c3d0fd797.jpg"
+    },
+    {
       "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\AboutPhoto\\e37f7afe7c114c10af00f863f4a1bc4e.jpeg",
       "PackagePath": "staticwebassets\\AboutPhoto\\e37f7afe7c114c10af00f863f4a1bc4e.jpeg"
     },
@@ -2849,16 +2853,16 @@
       "PackagePath": "staticwebassets\\Product\\2af5452df0c643e6ac3ea976a5db1ba1.jpeg"
     },
     {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\794028657fa5497cb35daf9b9fc0b7f5.jpg",
+      "PackagePath": "staticwebassets\\Product\\794028657fa5497cb35daf9b9fc0b7f5.jpg"
+    },
+    {
       "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\978786be142d4fe6987ff6791aa08c5e.jpeg",
       "PackagePath": "staticwebassets\\Product\\978786be142d4fe6987ff6791aa08c5e.jpeg"
     },
     {
       "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\projcbPlus850.jpeg",
       "PackagePath": "staticwebassets\\Product\\projcbPlus850.jpeg"
-    },
-    {
-      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\SliderPhoto\\ProjcbPlusAmerican.jpeg",
-      "PackagePath": "staticwebassets\\SliderPhoto\\ProjcbPlusAmerican.jpeg"
     },
     {
       "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\SliderPhoto\\pricing.png",

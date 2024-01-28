@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "niuiAtoysx7+VqQAM6IbR40XYxbbVjHjmZAQd4ep1WU=",
+  "Hash": "N3mChULLUFAQJ9bjqrryseU69GWGZ5JJtlRt4+Duk34=",
   "Source": "AlpayMakina",
   "BasePath": "_content/AlpayMakina",
   "Mode": "Default",
@@ -15025,25 +15025,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\SliderPhoto\\pricing.png"
-    },
-    {
-      "Identity": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\SliderPhoto\\ProjcbPlusAmerican.jpeg",
-      "SourceId": "AlpayMakina",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\",
-      "BasePath": "_content/AlpayMakina",
-      "RelativePath": "SliderPhoto/ProjcbPlusAmerican.jpeg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\SliderPhoto\\ProjcbPlusAmerican.jpeg"
     },
     {
       "Identity": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\SliderPhoto\\veta-vt07104.jpg",
