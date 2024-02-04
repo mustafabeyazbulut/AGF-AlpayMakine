@@ -39,7 +39,6 @@ builder.Services.AddTransient<IContactRepository, ContactRepository>();
 builder.Services.AddScoped<ImageOperations>();
 builder.Services.AddScoped<HashHelper>();
 
-
 var app = builder.Build();
 IWebHostEnvironment environment = app.Environment;
 environment.ContentRootPath = AppDomain.CurrentDomain.BaseDirectory;

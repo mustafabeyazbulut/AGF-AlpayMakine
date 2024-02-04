@@ -1,4 +1,6 @@
-﻿namespace AlpayMakina.Dtos.AboutDtos
+﻿using Microsoft.AspNetCore.Html;
+
+namespace AlpayMakina.Dtos.AboutDtos
 {
 	public class ResultAboutDto
 	{

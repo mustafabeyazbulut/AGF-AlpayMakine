@@ -27,6 +27,7 @@
 
   <ItemGroup>
     <Folder Include="wwwroot\Logo\" />
+    <Folder Include="wwwroot\NewFolder\" />
   </ItemGroup>
 
 </Project>

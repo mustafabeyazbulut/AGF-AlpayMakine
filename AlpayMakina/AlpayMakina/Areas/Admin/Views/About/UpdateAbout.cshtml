@@ -1,4 +1,5 @@
-﻿@model UpdateAboutDto
+﻿
+@model UpdateAboutDto
 @{
     ViewData["Title"] = "UpdateAbout";
     Layout = "~/Views/AdminLayout/Index.cshtml";
@@ -28,7 +29,9 @@
             </div>
             <div class="form-group">
                 <label for="Description">Açıklama</label>
-                <input type="text" class="form-control" id="Description" asp-for="Description" placeholder="Hakkımızda Açıklamasını giriniz">
+                @* <ckeditor asp-for="Description" class="form-control"></ckeditor> *@
+                <textarea class="form-control" id="ckeditor" name="Description" asp-for="Description" placeholder="Açıklama giriniz"></textarea>
+                @* @Html.TextAreaFor(x=>x.Description, new { @class = "form-control" }) *@
             </div>
 
             <button type="submit" class="btn btn-primary waves-effect waves-light btnConfirm">Güncelle</button>
