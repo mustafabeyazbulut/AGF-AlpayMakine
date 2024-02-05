@@ -10,5 +10,6 @@
         public int SubCategoryId { get; set; }
         public IFormFile ImageFile { get; set; }
         public bool Feature { get; set; }
+        public string Description { get; set; }
     }
 }

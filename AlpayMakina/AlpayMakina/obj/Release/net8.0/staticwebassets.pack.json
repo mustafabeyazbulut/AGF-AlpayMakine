@@ -2845,32 +2845,2144 @@
       "PackagePath": "staticwebassets\\Eshopper\\shop.html"
     },
     {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Logo\\desktop.ini",
+      "PackagePath": "staticwebassets\\Logo\\desktop.ini"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Logo\\fiyat2.png",
+      "PackagePath": "staticwebassets\\Logo\\fiyat2.png"
+    },
+    {
       "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Logo\\logo.png",
       "PackagePath": "staticwebassets\\Logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Logo\\logo222.png",
+      "PackagePath": "staticwebassets\\Logo\\logo222.png"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\01830fc420c94a96842b31a710cc4761.jpg",
+      "PackagePath": "staticwebassets\\Product\\01830fc420c94a96842b31a710cc4761.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\03afccf647504913a007c1bf2eb29cdc.jpg",
+      "PackagePath": "staticwebassets\\Product\\03afccf647504913a007c1bf2eb29cdc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\04e203f634cd47c384ab4d1794f6b505.jpg",
+      "PackagePath": "staticwebassets\\Product\\04e203f634cd47c384ab4d1794f6b505.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\051825b6cb3f4e49a945c7b171f21e00.jpg",
+      "PackagePath": "staticwebassets\\Product\\051825b6cb3f4e49a945c7b171f21e00.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\058d22140e2245c284bca8926f6754d7.jpg",
+      "PackagePath": "staticwebassets\\Product\\058d22140e2245c284bca8926f6754d7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\0598fc26fe954208877d76c5fd4a9f15.jpg",
+      "PackagePath": "staticwebassets\\Product\\0598fc26fe954208877d76c5fd4a9f15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\05ee8611fef84108bb363bad91548278.jpg",
+      "PackagePath": "staticwebassets\\Product\\05ee8611fef84108bb363bad91548278.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\09c7250901a9473a915472e40ce525ef.jpg",
+      "PackagePath": "staticwebassets\\Product\\09c7250901a9473a915472e40ce525ef.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\0a323bf824f74269bf52a124484b4636.jpg",
+      "PackagePath": "staticwebassets\\Product\\0a323bf824f74269bf52a124484b4636.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\0aeb1722a9804d61899b93010e19c455.jpg",
+      "PackagePath": "staticwebassets\\Product\\0aeb1722a9804d61899b93010e19c455.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\0b05128b75364f1f88eb2a368bb9c2f8.jpg",
+      "PackagePath": "staticwebassets\\Product\\0b05128b75364f1f88eb2a368bb9c2f8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\0b80b165e00043148f1b29b6152c0288.jpg",
+      "PackagePath": "staticwebassets\\Product\\0b80b165e00043148f1b29b6152c0288.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\0d3ccb3520994e8fb874a96b36e994ee.jpg",
+      "PackagePath": "staticwebassets\\Product\\0d3ccb3520994e8fb874a96b36e994ee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\0db6dc123507470390577527a93fe59e.jpg",
+      "PackagePath": "staticwebassets\\Product\\0db6dc123507470390577527a93fe59e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\0ecefaef72144188aadeca1da8d277a4.jpg",
+      "PackagePath": "staticwebassets\\Product\\0ecefaef72144188aadeca1da8d277a4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\0f31e4390cc14664af2659368de04598.jpg",
+      "PackagePath": "staticwebassets\\Product\\0f31e4390cc14664af2659368de04598.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\103f3012768541be8c0256557d6a7294.jpg",
+      "PackagePath": "staticwebassets\\Product\\103f3012768541be8c0256557d6a7294.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\10989773b1a74b11b93b6b69d3e738c2.jpg",
+      "PackagePath": "staticwebassets\\Product\\10989773b1a74b11b93b6b69d3e738c2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\12b515733c334699962f243c028adfe8.jpg",
+      "PackagePath": "staticwebassets\\Product\\12b515733c334699962f243c028adfe8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\1441f83fddaa42a6a75eef9176b08ee8.jpg",
+      "PackagePath": "staticwebassets\\Product\\1441f83fddaa42a6a75eef9176b08ee8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\15177b1f2cc14397800bb9ed70c6b402.jpg",
+      "PackagePath": "staticwebassets\\Product\\15177b1f2cc14397800bb9ed70c6b402.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\164273ddd4634d7ba79814ac8f37f56d.jpg",
+      "PackagePath": "staticwebassets\\Product\\164273ddd4634d7ba79814ac8f37f56d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\16795d07f96f416b84866c9da7b71f5f.jpg",
+      "PackagePath": "staticwebassets\\Product\\16795d07f96f416b84866c9da7b71f5f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\17f7ccf84ec64c2686cdbc7dd56166b3.jpg",
+      "PackagePath": "staticwebassets\\Product\\17f7ccf84ec64c2686cdbc7dd56166b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\18a56c2dfbee40468438cb0841d5866f.jpg",
+      "PackagePath": "staticwebassets\\Product\\18a56c2dfbee40468438cb0841d5866f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\1978e8d16e354fc49534cdd82179e384.jpg",
+      "PackagePath": "staticwebassets\\Product\\1978e8d16e354fc49534cdd82179e384.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\1e18099453f14e95bd82403771a153d7.jpg",
+      "PackagePath": "staticwebassets\\Product\\1e18099453f14e95bd82403771a153d7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\1e8a549ec1dc44dfaf45a443e0da8bbf.jpg",
+      "PackagePath": "staticwebassets\\Product\\1e8a549ec1dc44dfaf45a443e0da8bbf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\22cb802a7231433a90fb308d0c22d392.jpg",
+      "PackagePath": "staticwebassets\\Product\\22cb802a7231433a90fb308d0c22d392.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\24d92306de634c358c90f1ba267972d3.jpg",
+      "PackagePath": "staticwebassets\\Product\\24d92306de634c358c90f1ba267972d3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\259228faa35c42e48d369eb5f72861ea.jpg",
+      "PackagePath": "staticwebassets\\Product\\259228faa35c42e48d369eb5f72861ea.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\25b6be80072c448196e7603a542ebc6e.jpg",
+      "PackagePath": "staticwebassets\\Product\\25b6be80072c448196e7603a542ebc6e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\2641d3747a8144c7b4381d39ac230458.jpg",
+      "PackagePath": "staticwebassets\\Product\\2641d3747a8144c7b4381d39ac230458.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\27524934e041455eac20f508e3f9df73.jpg",
+      "PackagePath": "staticwebassets\\Product\\27524934e041455eac20f508e3f9df73.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\27b9bad1fbb34228b59678081d8a2021.jpg",
+      "PackagePath": "staticwebassets\\Product\\27b9bad1fbb34228b59678081d8a2021.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\27e0458838024ad0b82a8f514e545933.jpg",
+      "PackagePath": "staticwebassets\\Product\\27e0458838024ad0b82a8f514e545933.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\280912a27a2d40bbb80f5107058035a0.jpg",
+      "PackagePath": "staticwebassets\\Product\\280912a27a2d40bbb80f5107058035a0.jpg"
     },
     {
       "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\2af5452df0c643e6ac3ea976a5db1ba1.jpeg",
       "PackagePath": "staticwebassets\\Product\\2af5452df0c643e6ac3ea976a5db1ba1.jpeg"
     },
     {
-      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\794028657fa5497cb35daf9b9fc0b7f5.jpg",
-      "PackagePath": "staticwebassets\\Product\\794028657fa5497cb35daf9b9fc0b7f5.jpg"
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\2b5b22e9528040a8a636a8aa98221127.jpg",
+      "PackagePath": "staticwebassets\\Product\\2b5b22e9528040a8a636a8aa98221127.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\2baabafa0f9a440089adc36108fa60cd.jpg",
+      "PackagePath": "staticwebassets\\Product\\2baabafa0f9a440089adc36108fa60cd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\2be995905eee482f9d0c712d0d1d9df3.jpg",
+      "PackagePath": "staticwebassets\\Product\\2be995905eee482f9d0c712d0d1d9df3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\2e5a03fec992411589a32a62d1b15e05.jpg",
+      "PackagePath": "staticwebassets\\Product\\2e5a03fec992411589a32a62d1b15e05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\2ebed72680e84aee9742979a4a65a4eb.jpg",
+      "PackagePath": "staticwebassets\\Product\\2ebed72680e84aee9742979a4a65a4eb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\2ef2e771b51b447fbc7d8e7d57f8835d.jpg",
+      "PackagePath": "staticwebassets\\Product\\2ef2e771b51b447fbc7d8e7d57f8835d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\30ea08b234bd44c4b51319cb2e34ed6f.jpg",
+      "PackagePath": "staticwebassets\\Product\\30ea08b234bd44c4b51319cb2e34ed6f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\30f77ed8309542548c3e97a1f7bd6659.jpg",
+      "PackagePath": "staticwebassets\\Product\\30f77ed8309542548c3e97a1f7bd6659.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\31caf7926b534a2393dbad0471ca4aa5.jpg",
+      "PackagePath": "staticwebassets\\Product\\31caf7926b534a2393dbad0471ca4aa5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\31d9ae66bbe74d92a258f44d4105e8fd.jpg",
+      "PackagePath": "staticwebassets\\Product\\31d9ae66bbe74d92a258f44d4105e8fd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\330cf9ca5e9b41f59dcbce624963cf18.jpg",
+      "PackagePath": "staticwebassets\\Product\\330cf9ca5e9b41f59dcbce624963cf18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\3349fae629e446659c8fa0896b44181a.jpg",
+      "PackagePath": "staticwebassets\\Product\\3349fae629e446659c8fa0896b44181a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\33fea319371b4dabb3825ad076a0fa82.jpg",
+      "PackagePath": "staticwebassets\\Product\\33fea319371b4dabb3825ad076a0fa82.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\360bd18d9fd84ced9d05011421230123.jpg",
+      "PackagePath": "staticwebassets\\Product\\360bd18d9fd84ced9d05011421230123.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\367942fe896341528aa5a168408461e1.jpg",
+      "PackagePath": "staticwebassets\\Product\\367942fe896341528aa5a168408461e1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\368b3ac59c614f42a7ab4bdc405dad46.jpg",
+      "PackagePath": "staticwebassets\\Product\\368b3ac59c614f42a7ab4bdc405dad46.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\36e0c585ccaa467b822e76e172ece024.jpg",
+      "PackagePath": "staticwebassets\\Product\\36e0c585ccaa467b822e76e172ece024.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\3ab1bdc6d27a4c97b4a915b012b3ce80.jpg",
+      "PackagePath": "staticwebassets\\Product\\3ab1bdc6d27a4c97b4a915b012b3ce80.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\3bf74606d26b4f8e80aa21b2589224d3.jpg",
+      "PackagePath": "staticwebassets\\Product\\3bf74606d26b4f8e80aa21b2589224d3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\3bfc811b6ba2464ca7711561e00e8dd5.jpg",
+      "PackagePath": "staticwebassets\\Product\\3bfc811b6ba2464ca7711561e00e8dd5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\3d1c036d414440699ea67dbfd231d259.jpg",
+      "PackagePath": "staticwebassets\\Product\\3d1c036d414440699ea67dbfd231d259.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\400da444107a4791978394c96ef94260.jpg",
+      "PackagePath": "staticwebassets\\Product\\400da444107a4791978394c96ef94260.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\4053452a98cf4c0f8bafaa4f68f13b6c.jpg",
+      "PackagePath": "staticwebassets\\Product\\4053452a98cf4c0f8bafaa4f68f13b6c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\438adfa8b84b4c7185c55d14d7403f21.jpg",
+      "PackagePath": "staticwebassets\\Product\\438adfa8b84b4c7185c55d14d7403f21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\43ea82e9b74044728834c33ff764dbf1.jpg",
+      "PackagePath": "staticwebassets\\Product\\43ea82e9b74044728834c33ff764dbf1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\45ee5cfbdbe84a6795d4e7c9783152d1.jpg",
+      "PackagePath": "staticwebassets\\Product\\45ee5cfbdbe84a6795d4e7c9783152d1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\496dabb9a9004793a8976494fa47569d.jpg",
+      "PackagePath": "staticwebassets\\Product\\496dabb9a9004793a8976494fa47569d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\496faba0329149c7aa9c32267010d8c2.jpg",
+      "PackagePath": "staticwebassets\\Product\\496faba0329149c7aa9c32267010d8c2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\4a82e7b126164bfeaef2f7457003e89f.jpg",
+      "PackagePath": "staticwebassets\\Product\\4a82e7b126164bfeaef2f7457003e89f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\4d07a5d51f9a483ca9664996e61f22f9.jpg",
+      "PackagePath": "staticwebassets\\Product\\4d07a5d51f9a483ca9664996e61f22f9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\4d981cd3b30f4fd4bd2082632a5926fa.jpg",
+      "PackagePath": "staticwebassets\\Product\\4d981cd3b30f4fd4bd2082632a5926fa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\5211ef45ef354faa8a0aa2427e50d891.jpg",
+      "PackagePath": "staticwebassets\\Product\\5211ef45ef354faa8a0aa2427e50d891.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\52ac98dea3d04009881f55f857e79f98.jpg",
+      "PackagePath": "staticwebassets\\Product\\52ac98dea3d04009881f55f857e79f98.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\559aa79eb2e143c3ac2a719855265678.jpg",
+      "PackagePath": "staticwebassets\\Product\\559aa79eb2e143c3ac2a719855265678.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\55d09e07aa754b6da322de0688d57916.jpg",
+      "PackagePath": "staticwebassets\\Product\\55d09e07aa754b6da322de0688d57916.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\5839c393181c4aadb7d2fae3203516c5.jpg",
+      "PackagePath": "staticwebassets\\Product\\5839c393181c4aadb7d2fae3203516c5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\5b7e76ff140d4a9f80537788a5e3954f.jpg",
+      "PackagePath": "staticwebassets\\Product\\5b7e76ff140d4a9f80537788a5e3954f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\5cb05b52ddb44d5497aa5772bed14097.jpg",
+      "PackagePath": "staticwebassets\\Product\\5cb05b52ddb44d5497aa5772bed14097.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\5d8b0ba09d144034ad01a4450bdfe01b.jpg",
+      "PackagePath": "staticwebassets\\Product\\5d8b0ba09d144034ad01a4450bdfe01b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\5e718a5923be440583c59827ac2cbe1f.jpg",
+      "PackagePath": "staticwebassets\\Product\\5e718a5923be440583c59827ac2cbe1f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\5ed7ff62a54643ccbf66522b862867ae.jpg",
+      "PackagePath": "staticwebassets\\Product\\5ed7ff62a54643ccbf66522b862867ae.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\5f93436eb5dd4d4fb32a821978c5bb18.jpg",
+      "PackagePath": "staticwebassets\\Product\\5f93436eb5dd4d4fb32a821978c5bb18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\5fdb3c08f47b41a5bd93294f1907b006.jpg",
+      "PackagePath": "staticwebassets\\Product\\5fdb3c08f47b41a5bd93294f1907b006.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\60589a4c201345a1acd2344d507dc1e5.jpg",
+      "PackagePath": "staticwebassets\\Product\\60589a4c201345a1acd2344d507dc1e5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\61b9ccf15412451cbecdce391d5595cc.jpg",
+      "PackagePath": "staticwebassets\\Product\\61b9ccf15412451cbecdce391d5595cc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\63984358700a43f4ab506eff148bcd58.jpg",
+      "PackagePath": "staticwebassets\\Product\\63984358700a43f4ab506eff148bcd58.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\646ed0cf448642b7ab43daff01f5d44b.jpg",
+      "PackagePath": "staticwebassets\\Product\\646ed0cf448642b7ab43daff01f5d44b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\6504411467a14a3cae397c451e2b4651.jpg",
+      "PackagePath": "staticwebassets\\Product\\6504411467a14a3cae397c451e2b4651.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\67dcff5c6a844864ac73a9f19fff6310.jpg",
+      "PackagePath": "staticwebassets\\Product\\67dcff5c6a844864ac73a9f19fff6310.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\699bda659a704c86b4d2be46c0a9a738.jpg",
+      "PackagePath": "staticwebassets\\Product\\699bda659a704c86b4d2be46c0a9a738.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\69a92ba8f9324679aa8f76df07ec9e23.jpg",
+      "PackagePath": "staticwebassets\\Product\\69a92ba8f9324679aa8f76df07ec9e23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\69e61d82373b491cad5bbeb73d452245.jpg",
+      "PackagePath": "staticwebassets\\Product\\69e61d82373b491cad5bbeb73d452245.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\6a34e2e798ce4a859b5691ee911535dc.jpg",
+      "PackagePath": "staticwebassets\\Product\\6a34e2e798ce4a859b5691ee911535dc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\6b194c34a168456e944e514a6358eafc.jpg",
+      "PackagePath": "staticwebassets\\Product\\6b194c34a168456e944e514a6358eafc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\6bd9a67290d34703a209ec22006325d0.jpg",
+      "PackagePath": "staticwebassets\\Product\\6bd9a67290d34703a209ec22006325d0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\6d61642f401743caa91c6e9c24f2b91f.jpg",
+      "PackagePath": "staticwebassets\\Product\\6d61642f401743caa91c6e9c24f2b91f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\7358d7dcd77e4f209d69013d414686d4.jpg",
+      "PackagePath": "staticwebassets\\Product\\7358d7dcd77e4f209d69013d414686d4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\754e77d018a5451480dbc501bfe21c1c.jpg",
+      "PackagePath": "staticwebassets\\Product\\754e77d018a5451480dbc501bfe21c1c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\75a6a09d82ec4d2689aaf6e8ee9fcb7a.jpg",
+      "PackagePath": "staticwebassets\\Product\\75a6a09d82ec4d2689aaf6e8ee9fcb7a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\75f12b3827f34e0ea51e5c8847880c5c.jpg",
+      "PackagePath": "staticwebassets\\Product\\75f12b3827f34e0ea51e5c8847880c5c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\78027eaea6e84453ace7e5cc1039e07f.jpg",
+      "PackagePath": "staticwebassets\\Product\\78027eaea6e84453ace7e5cc1039e07f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\78c92028699a46828d4de0a7af816e0e.jpg",
+      "PackagePath": "staticwebassets\\Product\\78c92028699a46828d4de0a7af816e0e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\7abaa346ba94455aa9dcf0e665b2d326.jpg",
+      "PackagePath": "staticwebassets\\Product\\7abaa346ba94455aa9dcf0e665b2d326.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\7ac46efeab5b4fedb6b25db34f11e762.jpg",
+      "PackagePath": "staticwebassets\\Product\\7ac46efeab5b4fedb6b25db34f11e762.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\7bbb6afa4d004c698750d4f3b5543744.jpg",
+      "PackagePath": "staticwebassets\\Product\\7bbb6afa4d004c698750d4f3b5543744.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\7c19bd5b5e06462dbdb3fa2f65598d03.jpg",
+      "PackagePath": "staticwebassets\\Product\\7c19bd5b5e06462dbdb3fa2f65598d03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\8151d2f3af5e45ca98d28a83b9d7fef4.jpg",
+      "PackagePath": "staticwebassets\\Product\\8151d2f3af5e45ca98d28a83b9d7fef4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\81560671bcd44d72b07744f7670122a4.jpg",
+      "PackagePath": "staticwebassets\\Product\\81560671bcd44d72b07744f7670122a4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\819e1b92605640eb80064577d9a07138.jpg",
+      "PackagePath": "staticwebassets\\Product\\819e1b92605640eb80064577d9a07138.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\8496c0cb610d4dc7b2953cf51ad253e4.jpg",
+      "PackagePath": "staticwebassets\\Product\\8496c0cb610d4dc7b2953cf51ad253e4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\87f0d776f90b401ba67c6d19b3eea57f.jpg",
+      "PackagePath": "staticwebassets\\Product\\87f0d776f90b401ba67c6d19b3eea57f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\8866f931cefe49539147efe0409d282a.jpg",
+      "PackagePath": "staticwebassets\\Product\\8866f931cefe49539147efe0409d282a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\8a74b6b4debd45ebbf3d1fb60cca7076.jpg",
+      "PackagePath": "staticwebassets\\Product\\8a74b6b4debd45ebbf3d1fb60cca7076.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\8b5fe7c093dc4159a83fcfbed7348167.jpg",
+      "PackagePath": "staticwebassets\\Product\\8b5fe7c093dc4159a83fcfbed7348167.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\8d2f9005e9c444e5831678c75220482f.jpg",
+      "PackagePath": "staticwebassets\\Product\\8d2f9005e9c444e5831678c75220482f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\8e028bd4ec5348a29841e97a9246a60d.jpg",
+      "PackagePath": "staticwebassets\\Product\\8e028bd4ec5348a29841e97a9246a60d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\8f0ba8759e324dcfaba0684d04369699.jpg",
+      "PackagePath": "staticwebassets\\Product\\8f0ba8759e324dcfaba0684d04369699.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\905c04e666b94936b90f2c93b0e02ecc.jpg",
+      "PackagePath": "staticwebassets\\Product\\905c04e666b94936b90f2c93b0e02ecc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\920e6a741b0f458bb896c06d50eedf20.jpg",
+      "PackagePath": "staticwebassets\\Product\\920e6a741b0f458bb896c06d50eedf20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\92923d8518ab4ca195d267a9a3a16f11.jpg",
+      "PackagePath": "staticwebassets\\Product\\92923d8518ab4ca195d267a9a3a16f11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\960434bf0171457caf3a150d23e79085.jpg",
+      "PackagePath": "staticwebassets\\Product\\960434bf0171457caf3a150d23e79085.jpg"
     },
     {
       "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\978786be142d4fe6987ff6791aa08c5e.jpeg",
       "PackagePath": "staticwebassets\\Product\\978786be142d4fe6987ff6791aa08c5e.jpeg"
     },
     {
-      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\projcbPlus850.jpeg",
-      "PackagePath": "staticwebassets\\Product\\projcbPlus850.jpeg"
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\9cc09bb619084c44beace1f22b80efac.jpg",
+      "PackagePath": "staticwebassets\\Product\\9cc09bb619084c44beace1f22b80efac.jpg"
     },
     {
-      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\SliderPhoto\\pricing.png",
-      "PackagePath": "staticwebassets\\SliderPhoto\\pricing.png"
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\9f6e04f3f80e42bea714b2d60036decf.jpg",
+      "PackagePath": "staticwebassets\\Product\\9f6e04f3f80e42bea714b2d60036decf.jpg"
     },
     {
-      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\SliderPhoto\\veta-vt07104.jpg",
-      "PackagePath": "staticwebassets\\SliderPhoto\\veta-vt07104.jpg"
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\a0f76649d57f4c79bab825273f3e9a52.jpg",
+      "PackagePath": "staticwebassets\\Product\\a0f76649d57f4c79bab825273f3e9a52.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\a1632e7abe024b789bfcb6d8929014f7.jpg",
+      "PackagePath": "staticwebassets\\Product\\a1632e7abe024b789bfcb6d8929014f7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\a187ff60915a478d9b1ae178a5ba0bb5.jpg",
+      "PackagePath": "staticwebassets\\Product\\a187ff60915a478d9b1ae178a5ba0bb5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\a23ec348ff51467d987233bb69d77f9b.jpg",
+      "PackagePath": "staticwebassets\\Product\\a23ec348ff51467d987233bb69d77f9b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\a27a57e2b0204a39b3d2048f3fbc6003.jpg",
+      "PackagePath": "staticwebassets\\Product\\a27a57e2b0204a39b3d2048f3fbc6003.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\a3933409349e45d7aed9f0f861aec227.jpg",
+      "PackagePath": "staticwebassets\\Product\\a3933409349e45d7aed9f0f861aec227.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\a732b86cf4a546ee86818c9c7e281286.jpg",
+      "PackagePath": "staticwebassets\\Product\\a732b86cf4a546ee86818c9c7e281286.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\a7f068bbd5fc43268067b7c3968c272d.jpg",
+      "PackagePath": "staticwebassets\\Product\\a7f068bbd5fc43268067b7c3968c272d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\aa9d3a645aec4a86aec1cdd0eb259be1.jpg",
+      "PackagePath": "staticwebassets\\Product\\aa9d3a645aec4a86aec1cdd0eb259be1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\ac1ad207e34a48219da0a99358540c18.jpg",
+      "PackagePath": "staticwebassets\\Product\\ac1ad207e34a48219da0a99358540c18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\ad2e800b08a747f8897d5eea582c92dc.jpg",
+      "PackagePath": "staticwebassets\\Product\\ad2e800b08a747f8897d5eea582c92dc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\ae82bd5388e94428bb8fada449e5f9c3.jpg",
+      "PackagePath": "staticwebassets\\Product\\ae82bd5388e94428bb8fada449e5f9c3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\af1515707c2b478d91843cfa88ffe9dc.jpg",
+      "PackagePath": "staticwebassets\\Product\\af1515707c2b478d91843cfa88ffe9dc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\b0e7824715074cc88ef77a3aac029efb.jpg",
+      "PackagePath": "staticwebassets\\Product\\b0e7824715074cc88ef77a3aac029efb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\b16879d652464d32b508dab085b73b91.jpg",
+      "PackagePath": "staticwebassets\\Product\\b16879d652464d32b508dab085b73b91.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\b1b049d7515b42ebb3198c6cb3055fa7.jpg",
+      "PackagePath": "staticwebassets\\Product\\b1b049d7515b42ebb3198c6cb3055fa7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\b30a1a7830bd4e319e84f9bd3575d9db.jpg",
+      "PackagePath": "staticwebassets\\Product\\b30a1a7830bd4e319e84f9bd3575d9db.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\b32250b17a96405083a178ee95e1ac0c.jpg",
+      "PackagePath": "staticwebassets\\Product\\b32250b17a96405083a178ee95e1ac0c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\b9b812649a2a4a15b3ae9ddb9ac3db49.jpg",
+      "PackagePath": "staticwebassets\\Product\\b9b812649a2a4a15b3ae9ddb9ac3db49.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\babb8a7f3a0a41ca86d16771451dacc3.png",
+      "PackagePath": "staticwebassets\\Product\\babb8a7f3a0a41ca86d16771451dacc3.png"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\bb69c516ae1a47b0be7f670e0e58df4e.jpg",
+      "PackagePath": "staticwebassets\\Product\\bb69c516ae1a47b0be7f670e0e58df4e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\bb73a8dd6b6e4c73a438a0ac6af38255.jpg",
+      "PackagePath": "staticwebassets\\Product\\bb73a8dd6b6e4c73a438a0ac6af38255.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\bbcf4a2303134af789a8de07516c45a9.jpg",
+      "PackagePath": "staticwebassets\\Product\\bbcf4a2303134af789a8de07516c45a9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\bc0be6af3cca422b924164d915dab2aa.jpg",
+      "PackagePath": "staticwebassets\\Product\\bc0be6af3cca422b924164d915dab2aa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\bc56656f86d542d79498faac326be71e.jpg",
+      "PackagePath": "staticwebassets\\Product\\bc56656f86d542d79498faac326be71e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\bf1d91448a8e448a8dd6782f58786e1c.jpg",
+      "PackagePath": "staticwebassets\\Product\\bf1d91448a8e448a8dd6782f58786e1c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\bf6c928b60cc4763aeec9a2900784571.jpg",
+      "PackagePath": "staticwebassets\\Product\\bf6c928b60cc4763aeec9a2900784571.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\c46b8b97a50a43b3a8fe9aca5f2bc865.jpg",
+      "PackagePath": "staticwebassets\\Product\\c46b8b97a50a43b3a8fe9aca5f2bc865.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\c49c164b425e42a18ccc0105978926b3.jpg",
+      "PackagePath": "staticwebassets\\Product\\c49c164b425e42a18ccc0105978926b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\c58a439c857940cd831e3b6641a6de73.jpg",
+      "PackagePath": "staticwebassets\\Product\\c58a439c857940cd831e3b6641a6de73.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\c65676fb8bb2410ab437b32461f071da.jpg",
+      "PackagePath": "staticwebassets\\Product\\c65676fb8bb2410ab437b32461f071da.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\c69e0f33588341f3abc5acbd04485873.jpg",
+      "PackagePath": "staticwebassets\\Product\\c69e0f33588341f3abc5acbd04485873.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\c6d95b04c28d4092b8438cbae440bdd1.jpg",
+      "PackagePath": "staticwebassets\\Product\\c6d95b04c28d4092b8438cbae440bdd1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\c94da49419244f2c8592138b944f2358.jpg",
+      "PackagePath": "staticwebassets\\Product\\c94da49419244f2c8592138b944f2358.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\c96c742d428549dc8c8b990df6a087ac.jpg",
+      "PackagePath": "staticwebassets\\Product\\c96c742d428549dc8c8b990df6a087ac.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\ca77e0d8dc044b42841f93265d489805.jpg",
+      "PackagePath": "staticwebassets\\Product\\ca77e0d8dc044b42841f93265d489805.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\ccbc61e0420142d89b4b2206c628c0e8.jpg",
+      "PackagePath": "staticwebassets\\Product\\ccbc61e0420142d89b4b2206c628c0e8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\cdf170c397064c5799312ad0c3aef840.jpg",
+      "PackagePath": "staticwebassets\\Product\\cdf170c397064c5799312ad0c3aef840.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\d0760871d3e546019963d825e6b8b0a2.jpg",
+      "PackagePath": "staticwebassets\\Product\\d0760871d3e546019963d825e6b8b0a2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\d15536007a92439cbaa56c12b5df66b7.jpg",
+      "PackagePath": "staticwebassets\\Product\\d15536007a92439cbaa56c12b5df66b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\d1b6e2830fad4dda8b103d248bad9fba.jpg",
+      "PackagePath": "staticwebassets\\Product\\d1b6e2830fad4dda8b103d248bad9fba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\d3187919fc574d67b318215c8736dbc9.jpg",
+      "PackagePath": "staticwebassets\\Product\\d3187919fc574d67b318215c8736dbc9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\d423c464a0bd414296c9908fadf86080.jpg",
+      "PackagePath": "staticwebassets\\Product\\d423c464a0bd414296c9908fadf86080.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\d49668dca19c4af59fbbb2af6c1a0675.jpg",
+      "PackagePath": "staticwebassets\\Product\\d49668dca19c4af59fbbb2af6c1a0675.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\d618731380434708a4eabf6cfc30166f.jpg",
+      "PackagePath": "staticwebassets\\Product\\d618731380434708a4eabf6cfc30166f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\d7116d5ad136449f935c40dfeb3114a6.jpg",
+      "PackagePath": "staticwebassets\\Product\\d7116d5ad136449f935c40dfeb3114a6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\d9008a1f8ba843c5abdda3cfa52584e8.jpg",
+      "PackagePath": "staticwebassets\\Product\\d9008a1f8ba843c5abdda3cfa52584e8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\d9992b5744874303a1a2b1ef3f5ab773.jpg",
+      "PackagePath": "staticwebassets\\Product\\d9992b5744874303a1a2b1ef3f5ab773.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\da4c85ca12eb45638281c28988c685d7.jpg",
+      "PackagePath": "staticwebassets\\Product\\da4c85ca12eb45638281c28988c685d7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\da7d0691d6db4f4aa55d9715317e8254.jpg",
+      "PackagePath": "staticwebassets\\Product\\da7d0691d6db4f4aa55d9715317e8254.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\daecdc1b8cb04c358ef9bab99445d698.jpg",
+      "PackagePath": "staticwebassets\\Product\\daecdc1b8cb04c358ef9bab99445d698.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\db354a0232d34b79a7c918891746960b.jpg",
+      "PackagePath": "staticwebassets\\Product\\db354a0232d34b79a7c918891746960b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\dc085e0cf9e64e0683bca5da6ba06405.jpg",
+      "PackagePath": "staticwebassets\\Product\\dc085e0cf9e64e0683bca5da6ba06405.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\dd06c5ff0ea54dc8a14bef84bc851475.jpg",
+      "PackagePath": "staticwebassets\\Product\\dd06c5ff0ea54dc8a14bef84bc851475.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\dd2acb796e7543ddb352b6c0a21b608e.jpg",
+      "PackagePath": "staticwebassets\\Product\\dd2acb796e7543ddb352b6c0a21b608e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\de2cbc0a6b1f4852a024f05ee28ee9d0.jpg",
+      "PackagePath": "staticwebassets\\Product\\de2cbc0a6b1f4852a024f05ee28ee9d0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\e2758b5c383848ccab194c8033ddc78f.jpg",
+      "PackagePath": "staticwebassets\\Product\\e2758b5c383848ccab194c8033ddc78f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\e476a2a3d20346c48b44f1701579ff2d.jpg",
+      "PackagePath": "staticwebassets\\Product\\e476a2a3d20346c48b44f1701579ff2d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\e5029d5547e4443dacde4d95624cc405.jpg",
+      "PackagePath": "staticwebassets\\Product\\e5029d5547e4443dacde4d95624cc405.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\e5feb7033bb944ce8a52cf3b46609f43.jpg",
+      "PackagePath": "staticwebassets\\Product\\e5feb7033bb944ce8a52cf3b46609f43.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\e609b31c865644a3a90bc2f4a9db1833.jpg",
+      "PackagePath": "staticwebassets\\Product\\e609b31c865644a3a90bc2f4a9db1833.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\e70f33645b3149e9936c18efad52b431.jpg",
+      "PackagePath": "staticwebassets\\Product\\e70f33645b3149e9936c18efad52b431.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\e82486043a644a45b0f9dc36c5df1246.jpg",
+      "PackagePath": "staticwebassets\\Product\\e82486043a644a45b0f9dc36c5df1246.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\e8a09ef75f4048e8972dc08fba9e318a.jpg",
+      "PackagePath": "staticwebassets\\Product\\e8a09ef75f4048e8972dc08fba9e318a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\e92825a20761441b91c4d2a0b2a28bfd.jpg",
+      "PackagePath": "staticwebassets\\Product\\e92825a20761441b91c4d2a0b2a28bfd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\ea3c52c252ee4df994901c5f6c0be147.jpg",
+      "PackagePath": "staticwebassets\\Product\\ea3c52c252ee4df994901c5f6c0be147.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\eabdf3200e664406a4ed7f188b60eb83.png",
+      "PackagePath": "staticwebassets\\Product\\eabdf3200e664406a4ed7f188b60eb83.png"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\ed17a871911e4f24a18401ce51077616.jpg",
+      "PackagePath": "staticwebassets\\Product\\ed17a871911e4f24a18401ce51077616.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\ee5b5953edc74ddab1be98ae28962dce.jpg",
+      "PackagePath": "staticwebassets\\Product\\ee5b5953edc74ddab1be98ae28962dce.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\ef3b3c668440494791adb3d78bf4b8db.jpg",
+      "PackagePath": "staticwebassets\\Product\\ef3b3c668440494791adb3d78bf4b8db.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\f357760d4f234028b28cb09b90d534dd.jpg",
+      "PackagePath": "staticwebassets\\Product\\f357760d4f234028b28cb09b90d534dd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\f38c2378c5f74ca895355eb1487a8744.jpg",
+      "PackagePath": "staticwebassets\\Product\\f38c2378c5f74ca895355eb1487a8744.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\f3af3bbb53b2458491762fafc77a3d57.jpg",
+      "PackagePath": "staticwebassets\\Product\\f3af3bbb53b2458491762fafc77a3d57.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\f47491f2e3da49e69b8b708e928bee22.jpg",
+      "PackagePath": "staticwebassets\\Product\\f47491f2e3da49e69b8b708e928bee22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\f99d56ad521e4ad68b5666795b8c56f3.jpg",
+      "PackagePath": "staticwebassets\\Product\\f99d56ad521e4ad68b5666795b8c56f3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\fae053f528ce4cd58d39e0b3131bcd7b.jpg",
+      "PackagePath": "staticwebassets\\Product\\fae053f528ce4cd58d39e0b3131bcd7b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\fb12315da44f4ee1be59cbe7571358c1.jpg",
+      "PackagePath": "staticwebassets\\Product\\fb12315da44f4ee1be59cbe7571358c1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\fbe68333d41744d3bc8258398c3c8ed2.jpg",
+      "PackagePath": "staticwebassets\\Product\\fbe68333d41744d3bc8258398c3c8ed2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\fcf611ae938444cda05a873551164c0a.jpg",
+      "PackagePath": "staticwebassets\\Product\\fcf611ae938444cda05a873551164c0a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\fdad11f01c7848daa845aa0a9d2a79be.jpg",
+      "PackagePath": "staticwebassets\\Product\\fdad11f01c7848daa845aa0a9d2a79be.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\Product\\fe1aad2ac0164f33bb9d620a16f9cf7a.jpg",
+      "PackagePath": "staticwebassets\\Product\\fe1aad2ac0164f33bb9d620a16f9cf7a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\SliderPhoto\\3b9d2724bbb249bca8ac81da4886bc55.png",
+      "PackagePath": "staticwebassets\\SliderPhoto\\3b9d2724bbb249bca8ac81da4886bc55.png"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\SliderPhoto\\40b6772348c6497e816c7962aecbb38a.jpg",
+      "PackagePath": "staticwebassets\\SliderPhoto\\40b6772348c6497e816c7962aecbb38a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\CHANGES.md",
+      "PackagePath": "staticwebassets\\ckeditor\\CHANGES.md"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\LICENSE.md",
+      "PackagePath": "staticwebassets\\ckeditor\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\README.md",
+      "PackagePath": "staticwebassets\\ckeditor\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\SECURITY.md",
+      "PackagePath": "staticwebassets\\ckeditor\\SECURITY.md"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\adapters\\jquery.js",
+      "PackagePath": "staticwebassets\\ckeditor\\adapters\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\build-config.js",
+      "PackagePath": "staticwebassets\\ckeditor\\build-config.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\ckeditor.js",
+      "PackagePath": "staticwebassets\\ckeditor\\ckeditor.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\config.js",
+      "PackagePath": "staticwebassets\\ckeditor\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\contents.css",
+      "PackagePath": "staticwebassets\\ckeditor\\contents.css"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\af.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\af.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\az.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\az.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\bn.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\bn.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\bs.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\bs.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\cy.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\da.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\de-ch.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\de.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\el.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\en-au.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\en-ca.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\en-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\en-gb.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\en.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\en.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\eo.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\es-mx.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\es.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\et.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\et.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\fo.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\fo.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\gl.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\gu.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\gu.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\he.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\hi.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\hi.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\id.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\is.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\is.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\it.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\ka.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\ka.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\km.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\km.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\ku.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\lt.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\lv.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\mk.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\mk.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\mn.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\mn.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\ms.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\ms.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\no.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\no.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\oc.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\pt.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\si.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\si.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\sq.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\th.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\tt.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\ug.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\zh.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\a11yhelp.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\a11yhelp.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\_translationstatus.txt",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\_translationstatus.txt"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\af.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\af.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\az.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\az.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cy.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\da.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de-ch.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\el.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-au.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-gb.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eo.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es-mx.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\et.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\et.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fo.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fo.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gl.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gu.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gu.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\he.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hi.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hi.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\id.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\it.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\km.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\km.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ku.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lt.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lv.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mk.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mk.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mn.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mn.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\no.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\no.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\oc.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\si.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\si.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sq.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\th.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tt.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ug.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\about\\dialogs\\about.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\about\\dialogs\\about.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\about\\dialogs\\hidpi\\logo_ckeditor.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\about\\dialogs\\hidpi\\logo_ckeditor.png"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\about\\dialogs\\logo_ckeditor.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\about\\dialogs\\logo_ckeditor.png"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\clipboard\\dialogs\\paste.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\clipboard\\dialogs\\paste.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\dialog\\dialogDefinition.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\dialog\\dialogDefinition.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\dialog\\styles\\dialog.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\dialog\\styles\\dialog.css"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\icons.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\icons.png"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\icons_hidpi.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\icons_hidpi.png"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\image\\dialogs\\image.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\image\\dialogs\\image.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\image\\images\\noimage.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\image\\images\\noimage.png"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\link\\dialogs\\anchor.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\link\\dialogs\\anchor.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\link\\dialogs\\link.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\link\\dialogs\\link.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\link\\images\\anchor.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\link\\images\\anchor.png"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\link\\images\\hidpi\\anchor.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\link\\images\\hidpi\\anchor.png"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon-rtl.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon-rtl.png"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon.png"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\magicline\\images\\icon-rtl.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\magicline\\images\\icon-rtl.png"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\magicline\\images\\icon.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\magicline\\images\\icon.png"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\pastefromgdocs\\filter\\default.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\pastefromgdocs\\filter\\default.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\pastefromlibreoffice\\filter\\default.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\pastefromlibreoffice\\filter\\default.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\pastefromword\\filter\\default.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\pastefromword\\filter\\default.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\pastetools\\filter\\common.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\pastetools\\filter\\common.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\pastetools\\filter\\image.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\pastetools\\filter\\image.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\scayt\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\scayt\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\scayt\\LICENSE.md",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\scayt\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\scayt\\README.md",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\scayt\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\scayt\\dialogs\\dialog.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\scayt\\dialogs\\dialog.css"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\scayt\\dialogs\\options.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\scayt\\dialogs\\options.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\scayt\\dialogs\\toolbar.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\scayt\\dialogs\\toolbar.css"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\scayt\\skins\\moono-lisa\\scayt.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\scayt\\skins\\moono-lisa\\scayt.css"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\_translationstatus.txt",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\_translationstatus.txt"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\af.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\af.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\az.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\az.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cy.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\da.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de-ch.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\el.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-au.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-ca.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-gb.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eo.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es-mx.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\et.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\et.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\gl.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\he.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\id.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\it.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\km.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\km.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ku.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lt.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lv.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\no.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\no.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\oc.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\si.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\si.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sq.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\th.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tt.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ug.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\specialchar.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\specialchar.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\table\\dialogs\\table.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\table\\dialogs\\table.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\tableselection\\styles\\tableselection.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\tableselection\\styles\\tableselection.css"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\tabletools\\dialogs\\tableCell.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\tabletools\\dialogs\\tableCell.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\plugins\\widget\\images\\handle.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\widget\\images\\handle.png"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\css\\samples.css",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\css\\samples.css"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\img\\github-top.png",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\img\\github-top.png"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\img\\header-bg.png",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\img\\header-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\img\\header-separator.png",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\img\\header-separator.png"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\img\\logo.png",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\img\\logo.svg",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\img\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\img\\navigation-tip.png",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\img\\navigation-tip.png"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\index.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\js\\sample.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\js\\sample.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\js\\sf.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\js\\sf.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\old\\ajax.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\ajax.html"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\old\\api.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\api.html"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\old\\appendto.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\appendto.html"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\old\\assets\\inlineall\\logo.png",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\assets\\inlineall\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\old\\assets\\outputxhtml\\outputxhtml.css",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\assets\\outputxhtml\\outputxhtml.css"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\old\\assets\\posteddata.php",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\assets\\posteddata.php"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\old\\assets\\sample.jpg",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\assets\\sample.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\old\\assets\\uilanguages\\languages.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\assets\\uilanguages\\languages.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\old\\datafiltering.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\datafiltering.html"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\old\\dialog\\assets\\my_dialog.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\dialog\\assets\\my_dialog.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\old\\dialog\\dialog.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\dialog\\dialog.html"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\old\\divreplace.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\divreplace.html"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\old\\enterkey\\enterkey.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\enterkey\\enterkey.html"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\old\\htmlwriter\\outputhtml.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\htmlwriter\\outputhtml.html"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\old\\index.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\old\\inlineall.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\inlineall.html"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\old\\inlinebycode.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\inlinebycode.html"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\old\\inlinetextarea.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\inlinetextarea.html"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\old\\jquery.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\jquery.html"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\old\\magicline\\magicline.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\magicline\\magicline.html"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\old\\readonly.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\readonly.html"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\old\\replacebyclass.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\replacebyclass.html"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\old\\replacebycode.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\replacebycode.html"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\old\\sample.css",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\sample.css"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\old\\sample.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\sample.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\old\\sample_posteddata.php",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\sample_posteddata.php"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\old\\tabindex.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\tabindex.html"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\old\\toolbar\\toolbar.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\toolbar\\toolbar.html"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\old\\uicolor.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\uicolor.html"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\old\\uilanguages.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\uilanguages.html"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\old\\wysiwygarea\\fullpage.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\wysiwygarea\\fullpage.html"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\old\\xhtmlstyle.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\xhtmlstyle.html"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\css\\fontello.css",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\css\\fontello.css"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\font\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\font\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\font\\config.json",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\font\\config.json"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.eot",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.eot"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.svg",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.svg"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.ttf",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.ttf"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.woff",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.woff"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\index.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\js\\abstracttoolbarmodifier.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\js\\abstracttoolbarmodifier.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\js\\fulltoolbareditor.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\js\\fulltoolbareditor.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbarmodifier.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbarmodifier.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbartextmodifier.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbartextmodifier.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\LICENSE",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.css",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.css"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\javascript.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\javascript.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\neo.css",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\neo.css"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.css",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.css"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\skins\\moono-lisa\\dialog.css",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\dialog.css"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\skins\\moono-lisa\\dialog_ie.css",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\dialog_ie.css"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\skins\\moono-lisa\\dialog_ie8.css",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\dialog_ie8.css"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\skins\\moono-lisa\\dialog_iequirks.css",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\dialog_iequirks.css"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\skins\\moono-lisa\\editor.css",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\editor.css"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\skins\\moono-lisa\\editor_gecko.css",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\editor_gecko.css"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\skins\\moono-lisa\\editor_ie.css",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\editor_ie.css"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\skins\\moono-lisa\\editor_ie8.css",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\editor_ie8.css"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\skins\\moono-lisa\\editor_iequirks.css",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\editor_iequirks.css"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\skins\\moono-lisa\\icons.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\icons.png"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\skins\\moono-lisa\\icons_hidpi.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\icons_hidpi.png"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\close.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\close.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock-open.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock-open.png"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock.png"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\refresh.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\refresh.png"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\lock-open.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\lock-open.png"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\lock.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\lock.png"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\refresh.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\refresh.png"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\spinner.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\spinner.gif"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\skins\\moono-lisa\\readme.md",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\readme.md"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\styles.js",
+      "PackagePath": "staticwebassets\\ckeditor\\styles.js"
+    },
+    {
+      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\ckeditor\\vendor\\promise.js",
+      "PackagePath": "staticwebassets\\ckeditor\\vendor\\promise.js"
     },
     {
       "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\css\\site.css",
@@ -3115,10 +5227,6 @@
     {
       "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\logo.png",
       "PackagePath": "staticwebassets\\logo.png"
-    },
-    {
-      "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\panda-login.zip",
-      "PackagePath": "staticwebassets\\panda-login.zip"
     },
     {
       "Id": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\AGF-AlpayMakine\\AlpayMakina\\AlpayMakina\\wwwroot\\panda-login\\LICENSE.txt",

@@ -3,7 +3,11 @@
     ViewData["Title"] = "Index";
     Layout = "~/Views/UILayout/Index.cshtml";
 }
-
+<style>
+    .multiline {
+        white-space: pre-line;
+    }
+</style>
 <div class="container">
     <div class="row">
         </br>
@@ -19,7 +23,7 @@
                 <div class="col-sm-5">
                     <div class="view-product">
                         <img src="/Product/@Model.ImageUrl" alt="@Model.ImageUrl" />
-                        <h3>ZOOM</h3>
+                        <h3></h3>
                     </div>
                 </div>
                 <div class="col-sm-7">
@@ -32,10 +36,10 @@
                         <span>
                             <span>@String.Format("{0:N2}", Model.Price) @Model.Currency</span>
                         </span>
-                        <p><b>Availability:</b> Stokta var</p>
-                        <p><b>Durum:</b> Yeni</p>
+                        @* <p><b>Availability:</b> Stokta var</p>
+                        <p><b>Durum:</b> Yeni</p> *@
                         @* <p><b>Brand:</b> E-SHOPPER</p> *@
-                        <a href=""><img src="~/Eshopper/images/product-details/share.png" class="share img-responsive" alt="" /></a>
+                        @* <a href=""><img src="~/Eshopper/images/product-details/share.png" class="share img-responsive" alt="" /></a> *@
                     </div><!--/product-information-->
                 </div>
             </div><!--/product-details-->
@@ -52,9 +56,8 @@
 						<div class="col-sm-12">
 							<div class="product-image-wrapper">
 								<div class="single-products">
-									<div class="productinfo">
-                                        <p><b>Kategori:</b> @Model.CategoryName</p>
-                                        <p><b>Alt Kategori:</b> @Model.SubCategoryName</p>
+                                    <div class=" multiline">
+                                        @Html.Raw(Model.Description)
 									</div>
 								</div>
 							</div>
